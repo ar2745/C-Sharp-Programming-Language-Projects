@@ -1,0 +1,15 @@
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to convert from decimal to binary\How to convert from decimal to binary\bin\Debug\net6.0\How to convert from decimal to binary.exe
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to convert from decimal to binary\How to convert from decimal to binary\bin\Debug\net6.0\How to convert from decimal to binary.deps.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to convert from decimal to binary\How to convert from decimal to binary\bin\Debug\net6.0\How to convert from decimal to binary.runtimeconfig.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to convert from decimal to binary\How to convert from decimal to binary\bin\Debug\net6.0\How to convert from decimal to binary.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to convert from decimal to binary\How to convert from decimal to binary\bin\Debug\net6.0\How to convert from decimal to binary.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to convert from decimal to binary\How to convert from decimal to binary\obj\Debug\net6.0\How to convert from decimal to binary.csproj.AssemblyReference.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to convert from decimal to binary\How to convert from decimal to binary\obj\Debug\net6.0\How to convert from decimal to binary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to convert from decimal to binary\How to convert from decimal to binary\obj\Debug\net6.0\How to convert from decimal to binary.AssemblyInfoInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to convert from decimal to binary\How to convert from decimal to binary\obj\Debug\net6.0\How to convert from decimal to binary.AssemblyInfo.cs
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to convert from decimal to binary\How to convert from decimal to binary\obj\Debug\net6.0\How to convert from decimal to binary.csproj.CoreCompileInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to convert from decimal to binary\How to convert from decimal to binary\obj\Debug\net6.0\How to convert from decimal to binary.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to convert from decimal to binary\How to convert from decimal to binary\obj\Debug\net6.0\refint\How to convert from decimal to binary.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to convert from decimal to binary\How to convert from decimal to binary\obj\Debug\net6.0\How to convert from decimal to binary.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to convert from decimal to binary\How to convert from decimal to binary\obj\Debug\net6.0\How to convert from decimal to binary.genruntimeconfig.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to convert from decimal to binary\How to convert from decimal to binary\obj\Debug\net6.0\ref\How to convert from decimal to binary.dll
