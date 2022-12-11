@@ -1,0 +1,15 @@
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 31\Methods and Structures\Methods and Structures\bin\Debug\net6.0\Methods and Structures.exe
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 31\Methods and Structures\Methods and Structures\bin\Debug\net6.0\Methods and Structures.deps.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 31\Methods and Structures\Methods and Structures\bin\Debug\net6.0\Methods and Structures.runtimeconfig.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 31\Methods and Structures\Methods and Structures\bin\Debug\net6.0\Methods and Structures.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 31\Methods and Structures\Methods and Structures\bin\Debug\net6.0\Methods and Structures.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 31\Methods and Structures\Methods and Structures\obj\Debug\net6.0\Methods and Structures.csproj.AssemblyReference.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 31\Methods and Structures\Methods and Structures\obj\Debug\net6.0\Methods and Structures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 31\Methods and Structures\Methods and Structures\obj\Debug\net6.0\Methods and Structures.AssemblyInfoInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 31\Methods and Structures\Methods and Structures\obj\Debug\net6.0\Methods and Structures.AssemblyInfo.cs
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 31\Methods and Structures\Methods and Structures\obj\Debug\net6.0\Methods and Structures.csproj.CoreCompileInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 31\Methods and Structures\Methods and Structures\obj\Debug\net6.0\Methods and Structures.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 31\Methods and Structures\Methods and Structures\obj\Debug\net6.0\refint\Methods and Structures.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 31\Methods and Structures\Methods and Structures\obj\Debug\net6.0\Methods and Structures.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 31\Methods and Structures\Methods and Structures\obj\Debug\net6.0\Methods and Structures.genruntimeconfig.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 31\Methods and Structures\Methods and Structures\obj\Debug\net6.0\ref\Methods and Structures.dll
