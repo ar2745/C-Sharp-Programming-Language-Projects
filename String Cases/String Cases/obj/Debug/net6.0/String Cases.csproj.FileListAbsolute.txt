@@ -1,0 +1,15 @@
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 30\String Cases\String Cases\bin\Debug\net6.0\String Cases.exe
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 30\String Cases\String Cases\bin\Debug\net6.0\String Cases.deps.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 30\String Cases\String Cases\bin\Debug\net6.0\String Cases.runtimeconfig.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 30\String Cases\String Cases\bin\Debug\net6.0\String Cases.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 30\String Cases\String Cases\bin\Debug\net6.0\String Cases.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 30\String Cases\String Cases\obj\Debug\net6.0\String Cases.csproj.AssemblyReference.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 30\String Cases\String Cases\obj\Debug\net6.0\String Cases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 30\String Cases\String Cases\obj\Debug\net6.0\String Cases.AssemblyInfoInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 30\String Cases\String Cases\obj\Debug\net6.0\String Cases.AssemblyInfo.cs
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 30\String Cases\String Cases\obj\Debug\net6.0\String Cases.csproj.CoreCompileInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 30\String Cases\String Cases\obj\Debug\net6.0\String Cases.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 30\String Cases\String Cases\obj\Debug\net6.0\refint\String Cases.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 30\String Cases\String Cases\obj\Debug\net6.0\String Cases.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 30\String Cases\String Cases\obj\Debug\net6.0\String Cases.genruntimeconfig.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 30\String Cases\String Cases\obj\Debug\net6.0\ref\String Cases.dll

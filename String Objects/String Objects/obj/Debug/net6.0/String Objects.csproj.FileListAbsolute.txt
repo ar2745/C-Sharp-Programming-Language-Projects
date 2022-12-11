@@ -1,0 +1,15 @@
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 30\String Objects\String Objects\bin\Debug\net6.0\String Objects.exe
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 30\String Objects\String Objects\bin\Debug\net6.0\String Objects.deps.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 30\String Objects\String Objects\bin\Debug\net6.0\String Objects.runtimeconfig.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 30\String Objects\String Objects\bin\Debug\net6.0\String Objects.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 30\String Objects\String Objects\bin\Debug\net6.0\String Objects.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 30\String Objects\String Objects\obj\Debug\net6.0\String Objects.csproj.AssemblyReference.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 30\String Objects\String Objects\obj\Debug\net6.0\String Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 30\String Objects\String Objects\obj\Debug\net6.0\String Objects.AssemblyInfoInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 30\String Objects\String Objects\obj\Debug\net6.0\String Objects.AssemblyInfo.cs
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 30\String Objects\String Objects\obj\Debug\net6.0\String Objects.csproj.CoreCompileInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 30\String Objects\String Objects\obj\Debug\net6.0\String Objects.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 30\String Objects\String Objects\obj\Debug\net6.0\refint\String Objects.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 30\String Objects\String Objects\obj\Debug\net6.0\String Objects.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 30\String Objects\String Objects\obj\Debug\net6.0\String Objects.genruntimeconfig.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 30\String Objects\String Objects\obj\Debug\net6.0\ref\String Objects.dll

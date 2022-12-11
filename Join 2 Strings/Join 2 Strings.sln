@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Join 2 Strings", "Join 2 Strings\Join 2 Strings.csproj", "{D0B71B27-1A9A-459A-9A7C-6915F27F8888}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0B71B27-1A9A-459A-9A7C-6915F27F8888}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0B71B27-1A9A-459A-9A7C-6915F27F8888}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0B71B27-1A9A-459A-9A7C-6915F27F8888}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0B71B27-1A9A-459A-9A7C-6915F27F8888}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FE0F00E-7FDA-4B5D-B319-6FECC0CAF0C1}
+	EndGlobalSection
+EndGlobal
