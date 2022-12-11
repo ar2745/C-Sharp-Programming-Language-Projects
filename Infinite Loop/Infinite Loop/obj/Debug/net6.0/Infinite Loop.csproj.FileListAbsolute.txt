@@ -1,0 +1,15 @@
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 28\Infinite Loop\Infinite Loop\bin\Debug\net6.0\Infinite Loop.exe
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 28\Infinite Loop\Infinite Loop\bin\Debug\net6.0\Infinite Loop.deps.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 28\Infinite Loop\Infinite Loop\bin\Debug\net6.0\Infinite Loop.runtimeconfig.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 28\Infinite Loop\Infinite Loop\bin\Debug\net6.0\Infinite Loop.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 28\Infinite Loop\Infinite Loop\bin\Debug\net6.0\Infinite Loop.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 28\Infinite Loop\Infinite Loop\obj\Debug\net6.0\Infinite Loop.csproj.AssemblyReference.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 28\Infinite Loop\Infinite Loop\obj\Debug\net6.0\Infinite Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 28\Infinite Loop\Infinite Loop\obj\Debug\net6.0\Infinite Loop.AssemblyInfoInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 28\Infinite Loop\Infinite Loop\obj\Debug\net6.0\Infinite Loop.AssemblyInfo.cs
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 28\Infinite Loop\Infinite Loop\obj\Debug\net6.0\Infinite Loop.csproj.CoreCompileInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 28\Infinite Loop\Infinite Loop\obj\Debug\net6.0\Infinite Loop.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 28\Infinite Loop\Infinite Loop\obj\Debug\net6.0\refint\Infinite Loop.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 28\Infinite Loop\Infinite Loop\obj\Debug\net6.0\Infinite Loop.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 28\Infinite Loop\Infinite Loop\obj\Debug\net6.0\Infinite Loop.genruntimeconfig.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 28\Infinite Loop\Infinite Loop\obj\Debug\net6.0\ref\Infinite Loop.dll
