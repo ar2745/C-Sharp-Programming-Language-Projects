@@ -1,0 +1,15 @@
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 33\File Input and Output\File Input and Output\bin\Debug\net6.0\File Input and Output.exe
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 33\File Input and Output\File Input and Output\bin\Debug\net6.0\File Input and Output.deps.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 33\File Input and Output\File Input and Output\bin\Debug\net6.0\File Input and Output.runtimeconfig.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 33\File Input and Output\File Input and Output\bin\Debug\net6.0\File Input and Output.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 33\File Input and Output\File Input and Output\bin\Debug\net6.0\File Input and Output.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 33\File Input and Output\File Input and Output\obj\Debug\net6.0\File Input and Output.csproj.AssemblyReference.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 33\File Input and Output\File Input and Output\obj\Debug\net6.0\File Input and Output.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 33\File Input and Output\File Input and Output\obj\Debug\net6.0\File Input and Output.AssemblyInfoInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 33\File Input and Output\File Input and Output\obj\Debug\net6.0\File Input and Output.AssemblyInfo.cs
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 33\File Input and Output\File Input and Output\obj\Debug\net6.0\File Input and Output.csproj.CoreCompileInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 33\File Input and Output\File Input and Output\obj\Debug\net6.0\File Input and Output.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 33\File Input and Output\File Input and Output\obj\Debug\net6.0\refint\File Input and Output.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 33\File Input and Output\File Input and Output\obj\Debug\net6.0\File Input and Output.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 33\File Input and Output\File Input and Output\obj\Debug\net6.0\File Input and Output.genruntimeconfig.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 33\File Input and Output\File Input and Output\obj\Debug\net6.0\ref\File Input and Output.dll

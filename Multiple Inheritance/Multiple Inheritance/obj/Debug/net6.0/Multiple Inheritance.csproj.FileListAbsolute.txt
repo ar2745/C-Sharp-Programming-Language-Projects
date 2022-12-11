@@ -1,0 +1,15 @@
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 32\Multiple Inheritance\Multiple Inheritance\bin\Debug\net6.0\Multiple Inheritance.exe
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 32\Multiple Inheritance\Multiple Inheritance\bin\Debug\net6.0\Multiple Inheritance.deps.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 32\Multiple Inheritance\Multiple Inheritance\bin\Debug\net6.0\Multiple Inheritance.runtimeconfig.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 32\Multiple Inheritance\Multiple Inheritance\bin\Debug\net6.0\Multiple Inheritance.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 32\Multiple Inheritance\Multiple Inheritance\bin\Debug\net6.0\Multiple Inheritance.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 32\Multiple Inheritance\Multiple Inheritance\obj\Debug\net6.0\Multiple Inheritance.csproj.AssemblyReference.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 32\Multiple Inheritance\Multiple Inheritance\obj\Debug\net6.0\Multiple Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 32\Multiple Inheritance\Multiple Inheritance\obj\Debug\net6.0\Multiple Inheritance.AssemblyInfoInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 32\Multiple Inheritance\Multiple Inheritance\obj\Debug\net6.0\Multiple Inheritance.AssemblyInfo.cs
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 32\Multiple Inheritance\Multiple Inheritance\obj\Debug\net6.0\Multiple Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 32\Multiple Inheritance\Multiple Inheritance\obj\Debug\net6.0\Multiple Inheritance.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 32\Multiple Inheritance\Multiple Inheritance\obj\Debug\net6.0\refint\Multiple Inheritance.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 32\Multiple Inheritance\Multiple Inheritance\obj\Debug\net6.0\Multiple Inheritance.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 32\Multiple Inheritance\Multiple Inheritance\obj\Debug\net6.0\Multiple Inheritance.genruntimeconfig.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 32\Multiple Inheritance\Multiple Inheritance\obj\Debug\net6.0\ref\Multiple Inheritance.dll
