@@ -1,0 +1,15 @@
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\If Statement\If Statement\bin\Debug\net6.0\If Statement.exe
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\If Statement\If Statement\bin\Debug\net6.0\If Statement.deps.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\If Statement\If Statement\bin\Debug\net6.0\If Statement.runtimeconfig.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\If Statement\If Statement\bin\Debug\net6.0\If Statement.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\If Statement\If Statement\bin\Debug\net6.0\If Statement.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\If Statement\If Statement\obj\Debug\net6.0\If Statement.csproj.AssemblyReference.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\If Statement\If Statement\obj\Debug\net6.0\If Statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\If Statement\If Statement\obj\Debug\net6.0\If Statement.AssemblyInfoInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\If Statement\If Statement\obj\Debug\net6.0\If Statement.AssemblyInfo.cs
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\If Statement\If Statement\obj\Debug\net6.0\If Statement.csproj.CoreCompileInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\If Statement\If Statement\obj\Debug\net6.0\If Statement.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\If Statement\If Statement\obj\Debug\net6.0\refint\If Statement.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\If Statement\If Statement\obj\Debug\net6.0\If Statement.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\If Statement\If Statement\obj\Debug\net6.0\If Statement.genruntimeconfig.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\If Statement\If Statement\obj\Debug\net6.0\ref\If Statement.dll

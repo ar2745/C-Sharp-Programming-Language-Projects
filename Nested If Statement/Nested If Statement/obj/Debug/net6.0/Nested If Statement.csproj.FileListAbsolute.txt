@@ -1,0 +1,15 @@
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 27\Nested If Statement\Nested If Statement\bin\Debug\net6.0\Nested If Statement.exe
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 27\Nested If Statement\Nested If Statement\bin\Debug\net6.0\Nested If Statement.deps.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 27\Nested If Statement\Nested If Statement\bin\Debug\net6.0\Nested If Statement.runtimeconfig.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 27\Nested If Statement\Nested If Statement\bin\Debug\net6.0\Nested If Statement.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 27\Nested If Statement\Nested If Statement\bin\Debug\net6.0\Nested If Statement.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 27\Nested If Statement\Nested If Statement\obj\Debug\net6.0\Nested If Statement.csproj.AssemblyReference.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 27\Nested If Statement\Nested If Statement\obj\Debug\net6.0\Nested If Statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 27\Nested If Statement\Nested If Statement\obj\Debug\net6.0\Nested If Statement.AssemblyInfoInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 27\Nested If Statement\Nested If Statement\obj\Debug\net6.0\Nested If Statement.AssemblyInfo.cs
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 27\Nested If Statement\Nested If Statement\obj\Debug\net6.0\Nested If Statement.csproj.CoreCompileInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 27\Nested If Statement\Nested If Statement\obj\Debug\net6.0\Nested If Statement.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 27\Nested If Statement\Nested If Statement\obj\Debug\net6.0\refint\Nested If Statement.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 27\Nested If Statement\Nested If Statement\obj\Debug\net6.0\Nested If Statement.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 27\Nested If Statement\Nested If Statement\obj\Debug\net6.0\Nested If Statement.genruntimeconfig.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 27\Nested If Statement\Nested If Statement\obj\Debug\net6.0\ref\Nested If Statement.dll

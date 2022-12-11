@@ -1,0 +1,15 @@
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 27\If Else Statement\If Else Statement\bin\Debug\net6.0\If Else Statement.exe
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 27\If Else Statement\If Else Statement\bin\Debug\net6.0\If Else Statement.deps.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 27\If Else Statement\If Else Statement\bin\Debug\net6.0\If Else Statement.runtimeconfig.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 27\If Else Statement\If Else Statement\bin\Debug\net6.0\If Else Statement.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 27\If Else Statement\If Else Statement\bin\Debug\net6.0\If Else Statement.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 27\If Else Statement\If Else Statement\obj\Debug\net6.0\If Else Statement.csproj.AssemblyReference.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 27\If Else Statement\If Else Statement\obj\Debug\net6.0\If Else Statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 27\If Else Statement\If Else Statement\obj\Debug\net6.0\If Else Statement.AssemblyInfoInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 27\If Else Statement\If Else Statement\obj\Debug\net6.0\If Else Statement.AssemblyInfo.cs
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 27\If Else Statement\If Else Statement\obj\Debug\net6.0\If Else Statement.csproj.CoreCompileInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 27\If Else Statement\If Else Statement\obj\Debug\net6.0\If Else Statement.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 27\If Else Statement\If Else Statement\obj\Debug\net6.0\refint\If Else Statement.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 27\If Else Statement\If Else Statement\obj\Debug\net6.0\If Else Statement.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 27\If Else Statement\If Else Statement\obj\Debug\net6.0\If Else Statement.genruntimeconfig.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 27\If Else Statement\If Else Statement\obj\Debug\net6.0\ref\If Else Statement.dll
