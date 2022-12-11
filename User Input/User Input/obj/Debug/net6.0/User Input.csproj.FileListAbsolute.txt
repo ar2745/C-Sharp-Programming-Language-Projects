@@ -1,0 +1,15 @@
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 25\User Input\User Input\bin\Debug\net6.0\User Input.exe
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 25\User Input\User Input\bin\Debug\net6.0\User Input.deps.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 25\User Input\User Input\bin\Debug\net6.0\User Input.runtimeconfig.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 25\User Input\User Input\bin\Debug\net6.0\User Input.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 25\User Input\User Input\bin\Debug\net6.0\User Input.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 25\User Input\User Input\obj\Debug\net6.0\User Input.csproj.AssemblyReference.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 25\User Input\User Input\obj\Debug\net6.0\User Input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 25\User Input\User Input\obj\Debug\net6.0\User Input.AssemblyInfoInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 25\User Input\User Input\obj\Debug\net6.0\User Input.AssemblyInfo.cs
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 25\User Input\User Input\obj\Debug\net6.0\User Input.csproj.CoreCompileInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 25\User Input\User Input\obj\Debug\net6.0\User Input.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 25\User Input\User Input\obj\Debug\net6.0\refint\User Input.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 25\User Input\User Input\obj\Debug\net6.0\User Input.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 25\User Input\User Input\obj\Debug\net6.0\User Input.genruntimeconfig.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 25\User Input\User Input\obj\Debug\net6.0\ref\User Input.dll
