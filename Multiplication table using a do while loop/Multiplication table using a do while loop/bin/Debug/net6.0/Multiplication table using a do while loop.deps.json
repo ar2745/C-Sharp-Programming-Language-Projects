@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Multiplication table using a do while loop/1.0.0": {
+        "runtime": {
+          "Multiplication table using a do while loop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Multiplication table using a do while loop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

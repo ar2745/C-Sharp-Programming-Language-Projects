@@ -1,0 +1,15 @@
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Add 2 numbers using function\Add 2 numbers using function\obj\Debug\net6.0\Add 2 numbers using function.csproj.AssemblyReference.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Add 2 numbers using function\Add 2 numbers using function\obj\Debug\net6.0\Add 2 numbers using function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Add 2 numbers using function\Add 2 numbers using function\obj\Debug\net6.0\Add 2 numbers using function.AssemblyInfoInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Add 2 numbers using function\Add 2 numbers using function\obj\Debug\net6.0\Add 2 numbers using function.AssemblyInfo.cs
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Add 2 numbers using function\Add 2 numbers using function\obj\Debug\net6.0\Add 2 numbers using function.csproj.CoreCompileInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Add 2 numbers using function\Add 2 numbers using function\bin\Debug\net6.0\Add 2 numbers using function.exe
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Add 2 numbers using function\Add 2 numbers using function\bin\Debug\net6.0\Add 2 numbers using function.deps.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Add 2 numbers using function\Add 2 numbers using function\bin\Debug\net6.0\Add 2 numbers using function.runtimeconfig.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Add 2 numbers using function\Add 2 numbers using function\bin\Debug\net6.0\Add 2 numbers using function.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Add 2 numbers using function\Add 2 numbers using function\bin\Debug\net6.0\Add 2 numbers using function.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Add 2 numbers using function\Add 2 numbers using function\obj\Debug\net6.0\Add 2 numbers using function.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Add 2 numbers using function\Add 2 numbers using function\obj\Debug\net6.0\refint\Add 2 numbers using function.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Add 2 numbers using function\Add 2 numbers using function\obj\Debug\net6.0\Add 2 numbers using function.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Add 2 numbers using function\Add 2 numbers using function\obj\Debug\net6.0\Add 2 numbers using function.genruntimeconfig.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Add 2 numbers using function\Add 2 numbers using function\obj\Debug\net6.0\ref\Add 2 numbers using function.dll
