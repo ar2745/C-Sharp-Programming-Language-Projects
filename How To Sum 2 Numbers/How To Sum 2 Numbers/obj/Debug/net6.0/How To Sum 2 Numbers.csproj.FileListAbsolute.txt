@@ -1,0 +1,15 @@
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How To Sum 2 Numbers\How To Sum 2 Numbers\bin\Debug\net6.0\How To Sum 2 Numbers.exe
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How To Sum 2 Numbers\How To Sum 2 Numbers\bin\Debug\net6.0\How To Sum 2 Numbers.deps.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How To Sum 2 Numbers\How To Sum 2 Numbers\bin\Debug\net6.0\How To Sum 2 Numbers.runtimeconfig.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How To Sum 2 Numbers\How To Sum 2 Numbers\bin\Debug\net6.0\How To Sum 2 Numbers.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How To Sum 2 Numbers\How To Sum 2 Numbers\bin\Debug\net6.0\How To Sum 2 Numbers.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How To Sum 2 Numbers\How To Sum 2 Numbers\obj\Debug\net6.0\How To Sum 2 Numbers.csproj.AssemblyReference.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How To Sum 2 Numbers\How To Sum 2 Numbers\obj\Debug\net6.0\How To Sum 2 Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How To Sum 2 Numbers\How To Sum 2 Numbers\obj\Debug\net6.0\How To Sum 2 Numbers.AssemblyInfoInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How To Sum 2 Numbers\How To Sum 2 Numbers\obj\Debug\net6.0\How To Sum 2 Numbers.AssemblyInfo.cs
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How To Sum 2 Numbers\How To Sum 2 Numbers\obj\Debug\net6.0\How To Sum 2 Numbers.csproj.CoreCompileInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How To Sum 2 Numbers\How To Sum 2 Numbers\obj\Debug\net6.0\How To Sum 2 Numbers.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How To Sum 2 Numbers\How To Sum 2 Numbers\obj\Debug\net6.0\refint\How To Sum 2 Numbers.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How To Sum 2 Numbers\How To Sum 2 Numbers\obj\Debug\net6.0\How To Sum 2 Numbers.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How To Sum 2 Numbers\How To Sum 2 Numbers\obj\Debug\net6.0\How To Sum 2 Numbers.genruntimeconfig.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How To Sum 2 Numbers\How To Sum 2 Numbers\obj\Debug\net6.0\ref\How To Sum 2 Numbers.dll
