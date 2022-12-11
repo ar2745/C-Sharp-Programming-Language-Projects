@@ -1,0 +1,15 @@
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to sort array selection sorting\How to sort array selection sorting\bin\Debug\net6.0\How to sort array selection sorting.exe
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to sort array selection sorting\How to sort array selection sorting\bin\Debug\net6.0\How to sort array selection sorting.deps.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to sort array selection sorting\How to sort array selection sorting\bin\Debug\net6.0\How to sort array selection sorting.runtimeconfig.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to sort array selection sorting\How to sort array selection sorting\bin\Debug\net6.0\How to sort array selection sorting.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to sort array selection sorting\How to sort array selection sorting\bin\Debug\net6.0\How to sort array selection sorting.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to sort array selection sorting\How to sort array selection sorting\obj\Debug\net6.0\How to sort array selection sorting.csproj.AssemblyReference.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to sort array selection sorting\How to sort array selection sorting\obj\Debug\net6.0\How to sort array selection sorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to sort array selection sorting\How to sort array selection sorting\obj\Debug\net6.0\How to sort array selection sorting.AssemblyInfoInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to sort array selection sorting\How to sort array selection sorting\obj\Debug\net6.0\How to sort array selection sorting.AssemblyInfo.cs
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to sort array selection sorting\How to sort array selection sorting\obj\Debug\net6.0\How to sort array selection sorting.csproj.CoreCompileInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to sort array selection sorting\How to sort array selection sorting\obj\Debug\net6.0\How to sort array selection sorting.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to sort array selection sorting\How to sort array selection sorting\obj\Debug\net6.0\refint\How to sort array selection sorting.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to sort array selection sorting\How to sort array selection sorting\obj\Debug\net6.0\How to sort array selection sorting.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to sort array selection sorting\How to sort array selection sorting\obj\Debug\net6.0\How to sort array selection sorting.genruntimeconfig.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to sort array selection sorting\How to sort array selection sorting\obj\Debug\net6.0\ref\How to sort array selection sorting.dll

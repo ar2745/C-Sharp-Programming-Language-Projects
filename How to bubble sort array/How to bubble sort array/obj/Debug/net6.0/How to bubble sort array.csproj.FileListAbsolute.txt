@@ -1,0 +1,15 @@
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to bubble sort array\How to bubble sort array\bin\Debug\net6.0\How to bubble sort array.exe
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to bubble sort array\How to bubble sort array\bin\Debug\net6.0\How to bubble sort array.deps.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to bubble sort array\How to bubble sort array\bin\Debug\net6.0\How to bubble sort array.runtimeconfig.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to bubble sort array\How to bubble sort array\bin\Debug\net6.0\How to bubble sort array.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to bubble sort array\How to bubble sort array\bin\Debug\net6.0\How to bubble sort array.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to bubble sort array\How to bubble sort array\obj\Debug\net6.0\How to bubble sort array.csproj.AssemblyReference.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to bubble sort array\How to bubble sort array\obj\Debug\net6.0\How to bubble sort array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to bubble sort array\How to bubble sort array\obj\Debug\net6.0\How to bubble sort array.AssemblyInfoInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to bubble sort array\How to bubble sort array\obj\Debug\net6.0\How to bubble sort array.AssemblyInfo.cs
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to bubble sort array\How to bubble sort array\obj\Debug\net6.0\How to bubble sort array.csproj.CoreCompileInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to bubble sort array\How to bubble sort array\obj\Debug\net6.0\How to bubble sort array.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to bubble sort array\How to bubble sort array\obj\Debug\net6.0\refint\How to bubble sort array.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to bubble sort array\How to bubble sort array\obj\Debug\net6.0\How to bubble sort array.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to bubble sort array\How to bubble sort array\obj\Debug\net6.0\How to bubble sort array.genruntimeconfig.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to bubble sort array\How to bubble sort array\obj\Debug\net6.0\ref\How to bubble sort array.dll

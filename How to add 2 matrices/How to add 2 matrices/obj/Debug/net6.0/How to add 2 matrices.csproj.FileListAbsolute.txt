@@ -1,0 +1,15 @@
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to add 2 matrices\How to add 2 matrices\bin\Debug\net6.0\How to add 2 matrices.exe
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to add 2 matrices\How to add 2 matrices\bin\Debug\net6.0\How to add 2 matrices.deps.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to add 2 matrices\How to add 2 matrices\bin\Debug\net6.0\How to add 2 matrices.runtimeconfig.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to add 2 matrices\How to add 2 matrices\bin\Debug\net6.0\How to add 2 matrices.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to add 2 matrices\How to add 2 matrices\bin\Debug\net6.0\How to add 2 matrices.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to add 2 matrices\How to add 2 matrices\obj\Debug\net6.0\How to add 2 matrices.csproj.AssemblyReference.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to add 2 matrices\How to add 2 matrices\obj\Debug\net6.0\How to add 2 matrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to add 2 matrices\How to add 2 matrices\obj\Debug\net6.0\How to add 2 matrices.AssemblyInfoInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to add 2 matrices\How to add 2 matrices\obj\Debug\net6.0\How to add 2 matrices.AssemblyInfo.cs
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to add 2 matrices\How to add 2 matrices\obj\Debug\net6.0\How to add 2 matrices.csproj.CoreCompileInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to add 2 matrices\How to add 2 matrices\obj\Debug\net6.0\How to add 2 matrices.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to add 2 matrices\How to add 2 matrices\obj\Debug\net6.0\refint\How to add 2 matrices.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to add 2 matrices\How to add 2 matrices\obj\Debug\net6.0\How to add 2 matrices.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to add 2 matrices\How to add 2 matrices\obj\Debug\net6.0\How to add 2 matrices.genruntimeconfig.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to add 2 matrices\How to add 2 matrices\obj\Debug\net6.0\ref\How to add 2 matrices.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "How to bubble sort array/1.0.0": {
+        "runtime": {
+          "How to bubble sort array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "How to bubble sort array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
