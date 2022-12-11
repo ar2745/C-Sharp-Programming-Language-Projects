@@ -1,0 +1,15 @@
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to find a leap year\How to find a leap year\bin\Debug\net6.0\How to find a leap year.exe
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to find a leap year\How to find a leap year\bin\Debug\net6.0\How to find a leap year.deps.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to find a leap year\How to find a leap year\bin\Debug\net6.0\How to find a leap year.runtimeconfig.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to find a leap year\How to find a leap year\bin\Debug\net6.0\How to find a leap year.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to find a leap year\How to find a leap year\bin\Debug\net6.0\How to find a leap year.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to find a leap year\How to find a leap year\obj\Debug\net6.0\How to find a leap year.csproj.AssemblyReference.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to find a leap year\How to find a leap year\obj\Debug\net6.0\How to find a leap year.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to find a leap year\How to find a leap year\obj\Debug\net6.0\How to find a leap year.AssemblyInfoInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to find a leap year\How to find a leap year\obj\Debug\net6.0\How to find a leap year.AssemblyInfo.cs
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to find a leap year\How to find a leap year\obj\Debug\net6.0\How to find a leap year.csproj.CoreCompileInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to find a leap year\How to find a leap year\obj\Debug\net6.0\How to find a leap year.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to find a leap year\How to find a leap year\obj\Debug\net6.0\refint\How to find a leap year.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to find a leap year\How to find a leap year\obj\Debug\net6.0\How to find a leap year.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to find a leap year\How to find a leap year\obj\Debug\net6.0\How to find a leap year.genruntimeconfig.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to find a leap year\How to find a leap year\obj\Debug\net6.0\ref\How to find a leap year.dll

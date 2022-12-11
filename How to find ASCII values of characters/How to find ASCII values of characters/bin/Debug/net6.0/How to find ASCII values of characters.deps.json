@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "How to find ASCII values of characters/1.0.0": {
+        "runtime": {
+          "How to find ASCII values of characters.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "How to find ASCII values of characters/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

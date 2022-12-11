@@ -1,0 +1,15 @@
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to find ASCII values of characters\How to find ASCII values of characters\bin\Debug\net6.0\How to find ASCII values of characters.exe
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to find ASCII values of characters\How to find ASCII values of characters\bin\Debug\net6.0\How to find ASCII values of characters.deps.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to find ASCII values of characters\How to find ASCII values of characters\bin\Debug\net6.0\How to find ASCII values of characters.runtimeconfig.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to find ASCII values of characters\How to find ASCII values of characters\bin\Debug\net6.0\How to find ASCII values of characters.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to find ASCII values of characters\How to find ASCII values of characters\bin\Debug\net6.0\How to find ASCII values of characters.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to find ASCII values of characters\How to find ASCII values of characters\obj\Debug\net6.0\How to find ASCII values of characters.csproj.AssemblyReference.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to find ASCII values of characters\How to find ASCII values of characters\obj\Debug\net6.0\How to find ASCII values of characters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to find ASCII values of characters\How to find ASCII values of characters\obj\Debug\net6.0\How to find ASCII values of characters.AssemblyInfoInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to find ASCII values of characters\How to find ASCII values of characters\obj\Debug\net6.0\How to find ASCII values of characters.AssemblyInfo.cs
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to find ASCII values of characters\How to find ASCII values of characters\obj\Debug\net6.0\How to find ASCII values of characters.csproj.CoreCompileInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to find ASCII values of characters\How to find ASCII values of characters\obj\Debug\net6.0\How to find ASCII values of characters.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to find ASCII values of characters\How to find ASCII values of characters\obj\Debug\net6.0\refint\How to find ASCII values of characters.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to find ASCII values of characters\How to find ASCII values of characters\obj\Debug\net6.0\How to find ASCII values of characters.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to find ASCII values of characters\How to find ASCII values of characters\obj\Debug\net6.0\How to find ASCII values of characters.genruntimeconfig.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to find ASCII values of characters\How to find ASCII values of characters\obj\Debug\net6.0\ref\How to find ASCII values of characters.dll
