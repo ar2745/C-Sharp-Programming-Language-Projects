@@ -1,0 +1,15 @@
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create alphabet triangle\How to create alphabet triangle\bin\Debug\net6.0\How to create alphabet triangle.exe
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create alphabet triangle\How to create alphabet triangle\bin\Debug\net6.0\How to create alphabet triangle.deps.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create alphabet triangle\How to create alphabet triangle\bin\Debug\net6.0\How to create alphabet triangle.runtimeconfig.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create alphabet triangle\How to create alphabet triangle\bin\Debug\net6.0\How to create alphabet triangle.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create alphabet triangle\How to create alphabet triangle\bin\Debug\net6.0\How to create alphabet triangle.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create alphabet triangle\How to create alphabet triangle\obj\Debug\net6.0\How to create alphabet triangle.csproj.AssemblyReference.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create alphabet triangle\How to create alphabet triangle\obj\Debug\net6.0\How to create alphabet triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create alphabet triangle\How to create alphabet triangle\obj\Debug\net6.0\How to create alphabet triangle.AssemblyInfoInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create alphabet triangle\How to create alphabet triangle\obj\Debug\net6.0\How to create alphabet triangle.AssemblyInfo.cs
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create alphabet triangle\How to create alphabet triangle\obj\Debug\net6.0\How to create alphabet triangle.csproj.CoreCompileInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create alphabet triangle\How to create alphabet triangle\obj\Debug\net6.0\How to create alphabet triangle.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create alphabet triangle\How to create alphabet triangle\obj\Debug\net6.0\refint\How to create alphabet triangle.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create alphabet triangle\How to create alphabet triangle\obj\Debug\net6.0\How to create alphabet triangle.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create alphabet triangle\How to create alphabet triangle\obj\Debug\net6.0\How to create alphabet triangle.genruntimeconfig.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create alphabet triangle\How to create alphabet triangle\obj\Debug\net6.0\ref\How to create alphabet triangle.dll

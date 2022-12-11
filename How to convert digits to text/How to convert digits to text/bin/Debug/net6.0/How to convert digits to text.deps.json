@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "How to convert digits to text/1.0.0": {
+        "runtime": {
+          "How to convert digits to text.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "How to convert digits to text/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

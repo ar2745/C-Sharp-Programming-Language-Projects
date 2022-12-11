@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "How to check for duplicate elements in an array/1.0.0": {
+        "runtime": {
+          "How to check for duplicate elements in an array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "How to check for duplicate elements in an array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
