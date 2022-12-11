@@ -1,0 +1,15 @@
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to check for Palidrome\How to check for Palidrome\bin\Debug\net6.0\How to check for Palidrome.exe
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to check for Palidrome\How to check for Palidrome\bin\Debug\net6.0\How to check for Palidrome.deps.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to check for Palidrome\How to check for Palidrome\bin\Debug\net6.0\How to check for Palidrome.runtimeconfig.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to check for Palidrome\How to check for Palidrome\bin\Debug\net6.0\How to check for Palidrome.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to check for Palidrome\How to check for Palidrome\bin\Debug\net6.0\How to check for Palidrome.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to check for Palidrome\How to check for Palidrome\obj\Debug\net6.0\How to check for Palidrome.csproj.AssemblyReference.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to check for Palidrome\How to check for Palidrome\obj\Debug\net6.0\How to check for Palidrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to check for Palidrome\How to check for Palidrome\obj\Debug\net6.0\How to check for Palidrome.AssemblyInfoInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to check for Palidrome\How to check for Palidrome\obj\Debug\net6.0\How to check for Palidrome.AssemblyInfo.cs
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to check for Palidrome\How to check for Palidrome\obj\Debug\net6.0\How to check for Palidrome.csproj.CoreCompileInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to check for Palidrome\How to check for Palidrome\obj\Debug\net6.0\How to check for Palidrome.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to check for Palidrome\How to check for Palidrome\obj\Debug\net6.0\refint\How to check for Palidrome.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to check for Palidrome\How to check for Palidrome\obj\Debug\net6.0\How to check for Palidrome.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to check for Palidrome\How to check for Palidrome\obj\Debug\net6.0\How to check for Palidrome.genruntimeconfig.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to check for Palidrome\How to check for Palidrome\obj\Debug\net6.0\ref\How to check for Palidrome.dll

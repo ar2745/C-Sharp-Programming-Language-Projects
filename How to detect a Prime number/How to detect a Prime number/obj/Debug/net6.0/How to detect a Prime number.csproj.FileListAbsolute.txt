@@ -1,0 +1,15 @@
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to detect a Prime number\How to detect a Prime number\bin\Debug\net6.0\How to detect a Prime number.exe
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to detect a Prime number\How to detect a Prime number\bin\Debug\net6.0\How to detect a Prime number.deps.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to detect a Prime number\How to detect a Prime number\bin\Debug\net6.0\How to detect a Prime number.runtimeconfig.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to detect a Prime number\How to detect a Prime number\bin\Debug\net6.0\How to detect a Prime number.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to detect a Prime number\How to detect a Prime number\bin\Debug\net6.0\How to detect a Prime number.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to detect a Prime number\How to detect a Prime number\obj\Debug\net6.0\How to detect a Prime number.csproj.AssemblyReference.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to detect a Prime number\How to detect a Prime number\obj\Debug\net6.0\How to detect a Prime number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to detect a Prime number\How to detect a Prime number\obj\Debug\net6.0\How to detect a Prime number.AssemblyInfoInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to detect a Prime number\How to detect a Prime number\obj\Debug\net6.0\How to detect a Prime number.AssemblyInfo.cs
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to detect a Prime number\How to detect a Prime number\obj\Debug\net6.0\How to detect a Prime number.csproj.CoreCompileInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to detect a Prime number\How to detect a Prime number\obj\Debug\net6.0\How to detect a Prime number.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to detect a Prime number\How to detect a Prime number\obj\Debug\net6.0\refint\How to detect a Prime number.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to detect a Prime number\How to detect a Prime number\obj\Debug\net6.0\How to detect a Prime number.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to detect a Prime number\How to detect a Prime number\obj\Debug\net6.0\How to detect a Prime number.genruntimeconfig.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to detect a Prime number\How to detect a Prime number\obj\Debug\net6.0\ref\How to detect a Prime number.dll
