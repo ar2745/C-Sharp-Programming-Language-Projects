@@ -1,0 +1,15 @@
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create a triangular pattern\How to create a triangular pattern\bin\Debug\net6.0\How to create a triangular pattern.exe
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create a triangular pattern\How to create a triangular pattern\bin\Debug\net6.0\How to create a triangular pattern.deps.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create a triangular pattern\How to create a triangular pattern\bin\Debug\net6.0\How to create a triangular pattern.runtimeconfig.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create a triangular pattern\How to create a triangular pattern\bin\Debug\net6.0\How to create a triangular pattern.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create a triangular pattern\How to create a triangular pattern\bin\Debug\net6.0\How to create a triangular pattern.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create a triangular pattern\How to create a triangular pattern\obj\Debug\net6.0\How to create a triangular pattern.csproj.AssemblyReference.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create a triangular pattern\How to create a triangular pattern\obj\Debug\net6.0\How to create a triangular pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create a triangular pattern\How to create a triangular pattern\obj\Debug\net6.0\How to create a triangular pattern.AssemblyInfoInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create a triangular pattern\How to create a triangular pattern\obj\Debug\net6.0\How to create a triangular pattern.AssemblyInfo.cs
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create a triangular pattern\How to create a triangular pattern\obj\Debug\net6.0\How to create a triangular pattern.csproj.CoreCompileInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create a triangular pattern\How to create a triangular pattern\obj\Debug\net6.0\How to create a triangular pattern.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create a triangular pattern\How to create a triangular pattern\obj\Debug\net6.0\refint\How to create a triangular pattern.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create a triangular pattern\How to create a triangular pattern\obj\Debug\net6.0\How to create a triangular pattern.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create a triangular pattern\How to create a triangular pattern\obj\Debug\net6.0\How to create a triangular pattern.genruntimeconfig.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create a triangular pattern\How to create a triangular pattern\obj\Debug\net6.0\ref\How to create a triangular pattern.dll

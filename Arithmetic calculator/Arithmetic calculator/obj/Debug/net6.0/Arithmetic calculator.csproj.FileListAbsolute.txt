@@ -1,0 +1,15 @@
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Arithmetic calculator\Arithmetic calculator\bin\Debug\net6.0\Arithmetic calculator.exe
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Arithmetic calculator\Arithmetic calculator\bin\Debug\net6.0\Arithmetic calculator.deps.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Arithmetic calculator\Arithmetic calculator\bin\Debug\net6.0\Arithmetic calculator.runtimeconfig.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Arithmetic calculator\Arithmetic calculator\bin\Debug\net6.0\Arithmetic calculator.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Arithmetic calculator\Arithmetic calculator\bin\Debug\net6.0\Arithmetic calculator.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Arithmetic calculator\Arithmetic calculator\obj\Debug\net6.0\Arithmetic calculator.csproj.AssemblyReference.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Arithmetic calculator\Arithmetic calculator\obj\Debug\net6.0\Arithmetic calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Arithmetic calculator\Arithmetic calculator\obj\Debug\net6.0\Arithmetic calculator.AssemblyInfoInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Arithmetic calculator\Arithmetic calculator\obj\Debug\net6.0\Arithmetic calculator.AssemblyInfo.cs
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Arithmetic calculator\Arithmetic calculator\obj\Debug\net6.0\Arithmetic calculator.csproj.CoreCompileInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Arithmetic calculator\Arithmetic calculator\obj\Debug\net6.0\Arithmetic calculator.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Arithmetic calculator\Arithmetic calculator\obj\Debug\net6.0\refint\Arithmetic calculator.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Arithmetic calculator\Arithmetic calculator\obj\Debug\net6.0\Arithmetic calculator.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Arithmetic calculator\Arithmetic calculator\obj\Debug\net6.0\Arithmetic calculator.genruntimeconfig.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Arithmetic calculator\Arithmetic calculator\obj\Debug\net6.0\ref\Arithmetic calculator.dll
