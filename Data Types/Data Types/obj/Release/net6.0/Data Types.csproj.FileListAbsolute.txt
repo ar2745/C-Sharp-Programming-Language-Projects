@@ -1,0 +1,15 @@
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 25\Data Types\Data Types\bin\Release\net6.0\Data Types.exe
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 25\Data Types\Data Types\bin\Release\net6.0\Data Types.deps.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 25\Data Types\Data Types\bin\Release\net6.0\Data Types.runtimeconfig.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 25\Data Types\Data Types\bin\Release\net6.0\Data Types.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 25\Data Types\Data Types\bin\Release\net6.0\Data Types.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 25\Data Types\Data Types\obj\Release\net6.0\Data Types.csproj.AssemblyReference.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 25\Data Types\Data Types\obj\Release\net6.0\Data Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 25\Data Types\Data Types\obj\Release\net6.0\Data Types.AssemblyInfoInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 25\Data Types\Data Types\obj\Release\net6.0\Data Types.AssemblyInfo.cs
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 25\Data Types\Data Types\obj\Release\net6.0\Data Types.csproj.CoreCompileInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 25\Data Types\Data Types\obj\Release\net6.0\Data Types.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 25\Data Types\Data Types\obj\Release\net6.0\refint\Data Types.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 25\Data Types\Data Types\obj\Release\net6.0\Data Types.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 25\Data Types\Data Types\obj\Release\net6.0\Data Types.genruntimeconfig.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 25\Data Types\Data Types\obj\Release\net6.0\ref\Data Types.dll
