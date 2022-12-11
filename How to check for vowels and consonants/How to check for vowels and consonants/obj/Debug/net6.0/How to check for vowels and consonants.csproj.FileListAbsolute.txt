@@ -1,0 +1,15 @@
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to check for vowels and consonants\How to check for vowels and consonants\bin\Debug\net6.0\How to check for vowels and consonants.exe
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to check for vowels and consonants\How to check for vowels and consonants\bin\Debug\net6.0\How to check for vowels and consonants.deps.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to check for vowels and consonants\How to check for vowels and consonants\bin\Debug\net6.0\How to check for vowels and consonants.runtimeconfig.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to check for vowels and consonants\How to check for vowels and consonants\bin\Debug\net6.0\How to check for vowels and consonants.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to check for vowels and consonants\How to check for vowels and consonants\bin\Debug\net6.0\How to check for vowels and consonants.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to check for vowels and consonants\How to check for vowels and consonants\obj\Debug\net6.0\How to check for vowels and consonants.csproj.AssemblyReference.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to check for vowels and consonants\How to check for vowels and consonants\obj\Debug\net6.0\How to check for vowels and consonants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to check for vowels and consonants\How to check for vowels and consonants\obj\Debug\net6.0\How to check for vowels and consonants.AssemblyInfoInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to check for vowels and consonants\How to check for vowels and consonants\obj\Debug\net6.0\How to check for vowels and consonants.AssemblyInfo.cs
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to check for vowels and consonants\How to check for vowels and consonants\obj\Debug\net6.0\How to check for vowels and consonants.csproj.CoreCompileInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to check for vowels and consonants\How to check for vowels and consonants\obj\Debug\net6.0\How to check for vowels and consonants.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to check for vowels and consonants\How to check for vowels and consonants\obj\Debug\net6.0\refint\How to check for vowels and consonants.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to check for vowels and consonants\How to check for vowels and consonants\obj\Debug\net6.0\How to check for vowels and consonants.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to check for vowels and consonants\How to check for vowels and consonants\obj\Debug\net6.0\How to check for vowels and consonants.genruntimeconfig.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to check for vowels and consonants\How to check for vowels and consonants\obj\Debug\net6.0\ref\How to check for vowels and consonants.dll

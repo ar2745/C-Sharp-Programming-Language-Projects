@@ -1,0 +1,15 @@
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to count number of words\How to count number of words\bin\Debug\net6.0\How to count number of words.exe
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to count number of words\How to count number of words\bin\Debug\net6.0\How to count number of words.deps.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to count number of words\How to count number of words\bin\Debug\net6.0\How to count number of words.runtimeconfig.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to count number of words\How to count number of words\bin\Debug\net6.0\How to count number of words.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to count number of words\How to count number of words\bin\Debug\net6.0\How to count number of words.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to count number of words\How to count number of words\obj\Debug\net6.0\How to count number of words.csproj.AssemblyReference.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to count number of words\How to count number of words\obj\Debug\net6.0\How to count number of words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to count number of words\How to count number of words\obj\Debug\net6.0\How to count number of words.AssemblyInfoInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to count number of words\How to count number of words\obj\Debug\net6.0\How to count number of words.AssemblyInfo.cs
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to count number of words\How to count number of words\obj\Debug\net6.0\How to count number of words.csproj.CoreCompileInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to count number of words\How to count number of words\obj\Debug\net6.0\How to count number of words.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to count number of words\How to count number of words\obj\Debug\net6.0\refint\How to count number of words.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to count number of words\How to count number of words\obj\Debug\net6.0\How to count number of words.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to count number of words\How to count number of words\obj\Debug\net6.0\How to count number of words.genruntimeconfig.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to count number of words\How to count number of words\obj\Debug\net6.0\ref\How to count number of words.dll

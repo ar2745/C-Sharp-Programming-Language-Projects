@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "How to check for vowels and consonants", "How to check for vowels and consonants\How to check for vowels and consonants.csproj", "{B5FF516D-44B2-4C6D-BE13-1EFF4F665FA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5FF516D-44B2-4C6D-BE13-1EFF4F665FA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5FF516D-44B2-4C6D-BE13-1EFF4F665FA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5FF516D-44B2-4C6D-BE13-1EFF4F665FA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5FF516D-44B2-4C6D-BE13-1EFF4F665FA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A15561B0-76DA-4A96-BAAE-DF262E3A708F}
+	EndGlobalSection
+EndGlobal
