@@ -1,0 +1,15 @@
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create binary triangle\How to create binary triangle\bin\Debug\net6.0\How to create binary triangle.exe
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create binary triangle\How to create binary triangle\bin\Debug\net6.0\How to create binary triangle.deps.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create binary triangle\How to create binary triangle\bin\Debug\net6.0\How to create binary triangle.runtimeconfig.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create binary triangle\How to create binary triangle\bin\Debug\net6.0\How to create binary triangle.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create binary triangle\How to create binary triangle\bin\Debug\net6.0\How to create binary triangle.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create binary triangle\How to create binary triangle\obj\Debug\net6.0\How to create binary triangle.csproj.AssemblyReference.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create binary triangle\How to create binary triangle\obj\Debug\net6.0\How to create binary triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create binary triangle\How to create binary triangle\obj\Debug\net6.0\How to create binary triangle.AssemblyInfoInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create binary triangle\How to create binary triangle\obj\Debug\net6.0\How to create binary triangle.AssemblyInfo.cs
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create binary triangle\How to create binary triangle\obj\Debug\net6.0\How to create binary triangle.csproj.CoreCompileInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create binary triangle\How to create binary triangle\obj\Debug\net6.0\How to create binary triangle.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create binary triangle\How to create binary triangle\obj\Debug\net6.0\refint\How to create binary triangle.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create binary triangle\How to create binary triangle\obj\Debug\net6.0\How to create binary triangle.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create binary triangle\How to create binary triangle\obj\Debug\net6.0\How to create binary triangle.genruntimeconfig.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create binary triangle\How to create binary triangle\obj\Debug\net6.0\ref\How to create binary triangle.dll

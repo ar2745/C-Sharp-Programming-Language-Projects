@@ -1,0 +1,15 @@
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get LCM and GCD\How to get LCM and GCD\bin\Debug\net6.0\How to get LCM and GCD.exe
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get LCM and GCD\How to get LCM and GCD\bin\Debug\net6.0\How to get LCM and GCD.deps.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get LCM and GCD\How to get LCM and GCD\bin\Debug\net6.0\How to get LCM and GCD.runtimeconfig.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get LCM and GCD\How to get LCM and GCD\bin\Debug\net6.0\How to get LCM and GCD.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get LCM and GCD\How to get LCM and GCD\bin\Debug\net6.0\How to get LCM and GCD.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get LCM and GCD\How to get LCM and GCD\obj\Debug\net6.0\How to get LCM and GCD.csproj.AssemblyReference.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get LCM and GCD\How to get LCM and GCD\obj\Debug\net6.0\How to get LCM and GCD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get LCM and GCD\How to get LCM and GCD\obj\Debug\net6.0\How to get LCM and GCD.AssemblyInfoInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get LCM and GCD\How to get LCM and GCD\obj\Debug\net6.0\How to get LCM and GCD.AssemblyInfo.cs
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get LCM and GCD\How to get LCM and GCD\obj\Debug\net6.0\How to get LCM and GCD.csproj.CoreCompileInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get LCM and GCD\How to get LCM and GCD\obj\Debug\net6.0\How to get LCM and GCD.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get LCM and GCD\How to get LCM and GCD\obj\Debug\net6.0\refint\How to get LCM and GCD.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get LCM and GCD\How to get LCM and GCD\obj\Debug\net6.0\How to get LCM and GCD.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get LCM and GCD\How to get LCM and GCD\obj\Debug\net6.0\How to get LCM and GCD.genruntimeconfig.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get LCM and GCD\How to get LCM and GCD\obj\Debug\net6.0\ref\How to get LCM and GCD.dll

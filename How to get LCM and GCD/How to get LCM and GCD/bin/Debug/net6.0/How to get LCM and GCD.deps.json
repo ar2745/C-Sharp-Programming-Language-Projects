@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "How to get LCM and GCD/1.0.0": {
+        "runtime": {
+          "How to get LCM and GCD.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "How to get LCM and GCD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

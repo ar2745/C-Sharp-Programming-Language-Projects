@@ -1,0 +1,15 @@
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create rectangular pattern\How to create rectangular pattern\bin\Debug\net6.0\How to create rectangular pattern.exe
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create rectangular pattern\How to create rectangular pattern\bin\Debug\net6.0\How to create rectangular pattern.deps.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create rectangular pattern\How to create rectangular pattern\bin\Debug\net6.0\How to create rectangular pattern.runtimeconfig.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create rectangular pattern\How to create rectangular pattern\bin\Debug\net6.0\How to create rectangular pattern.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create rectangular pattern\How to create rectangular pattern\bin\Debug\net6.0\How to create rectangular pattern.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create rectangular pattern\How to create rectangular pattern\obj\Debug\net6.0\How to create rectangular pattern.csproj.AssemblyReference.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create rectangular pattern\How to create rectangular pattern\obj\Debug\net6.0\How to create rectangular pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create rectangular pattern\How to create rectangular pattern\obj\Debug\net6.0\How to create rectangular pattern.AssemblyInfoInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create rectangular pattern\How to create rectangular pattern\obj\Debug\net6.0\How to create rectangular pattern.AssemblyInfo.cs
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create rectangular pattern\How to create rectangular pattern\obj\Debug\net6.0\How to create rectangular pattern.csproj.CoreCompileInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create rectangular pattern\How to create rectangular pattern\obj\Debug\net6.0\How to create rectangular pattern.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create rectangular pattern\How to create rectangular pattern\obj\Debug\net6.0\refint\How to create rectangular pattern.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create rectangular pattern\How to create rectangular pattern\obj\Debug\net6.0\How to create rectangular pattern.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create rectangular pattern\How to create rectangular pattern\obj\Debug\net6.0\How to create rectangular pattern.genruntimeconfig.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create rectangular pattern\How to create rectangular pattern\obj\Debug\net6.0\ref\How to create rectangular pattern.dll

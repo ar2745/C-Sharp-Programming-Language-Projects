@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "How to get LCM and GCD", "How to get LCM and GCD\How to get LCM and GCD.csproj", "{8CC5A12C-D323-4183-8DEF-18D58C7AE726}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CC5A12C-D323-4183-8DEF-18D58C7AE726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CC5A12C-D323-4183-8DEF-18D58C7AE726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CC5A12C-D323-4183-8DEF-18D58C7AE726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CC5A12C-D323-4183-8DEF-18D58C7AE726}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A04E9D4-1FFC-4D59-A9B7-12070A844046}
+	EndGlobalSection
+EndGlobal
