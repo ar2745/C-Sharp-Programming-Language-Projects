@@ -1,0 +1,15 @@
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the length of a string\How to get the length of a string\bin\Debug\net6.0\How to get the length of a string.exe
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the length of a string\How to get the length of a string\bin\Debug\net6.0\How to get the length of a string.deps.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the length of a string\How to get the length of a string\bin\Debug\net6.0\How to get the length of a string.runtimeconfig.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the length of a string\How to get the length of a string\bin\Debug\net6.0\How to get the length of a string.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the length of a string\How to get the length of a string\bin\Debug\net6.0\How to get the length of a string.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the length of a string\How to get the length of a string\obj\Debug\net6.0\How to get the length of a string.csproj.AssemblyReference.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the length of a string\How to get the length of a string\obj\Debug\net6.0\How to get the length of a string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the length of a string\How to get the length of a string\obj\Debug\net6.0\How to get the length of a string.AssemblyInfoInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the length of a string\How to get the length of a string\obj\Debug\net6.0\How to get the length of a string.AssemblyInfo.cs
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the length of a string\How to get the length of a string\obj\Debug\net6.0\How to get the length of a string.csproj.CoreCompileInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the length of a string\How to get the length of a string\obj\Debug\net6.0\How to get the length of a string.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the length of a string\How to get the length of a string\obj\Debug\net6.0\refint\How to get the length of a string.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the length of a string\How to get the length of a string\obj\Debug\net6.0\How to get the length of a string.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the length of a string\How to get the length of a string\obj\Debug\net6.0\How to get the length of a string.genruntimeconfig.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the length of a string\How to get the length of a string\obj\Debug\net6.0\ref\How to get the length of a string.dll

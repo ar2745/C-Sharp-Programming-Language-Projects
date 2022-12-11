@@ -1,0 +1,15 @@
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to reverse numbers\How to reverse numbers\bin\Debug\net6.0\How to reverse numbers.exe
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to reverse numbers\How to reverse numbers\bin\Debug\net6.0\How to reverse numbers.deps.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to reverse numbers\How to reverse numbers\bin\Debug\net6.0\How to reverse numbers.runtimeconfig.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to reverse numbers\How to reverse numbers\bin\Debug\net6.0\How to reverse numbers.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to reverse numbers\How to reverse numbers\bin\Debug\net6.0\How to reverse numbers.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to reverse numbers\How to reverse numbers\obj\Debug\net6.0\How to reverse numbers.csproj.AssemblyReference.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to reverse numbers\How to reverse numbers\obj\Debug\net6.0\How to reverse numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to reverse numbers\How to reverse numbers\obj\Debug\net6.0\How to reverse numbers.AssemblyInfoInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to reverse numbers\How to reverse numbers\obj\Debug\net6.0\How to reverse numbers.AssemblyInfo.cs
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to reverse numbers\How to reverse numbers\obj\Debug\net6.0\How to reverse numbers.csproj.CoreCompileInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to reverse numbers\How to reverse numbers\obj\Debug\net6.0\How to reverse numbers.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to reverse numbers\How to reverse numbers\obj\Debug\net6.0\refint\How to reverse numbers.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to reverse numbers\How to reverse numbers\obj\Debug\net6.0\How to reverse numbers.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to reverse numbers\How to reverse numbers\obj\Debug\net6.0\How to reverse numbers.genruntimeconfig.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to reverse numbers\How to reverse numbers\obj\Debug\net6.0\ref\How to reverse numbers.dll
