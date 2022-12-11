@@ -1,0 +1,15 @@
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Relational Operators\Relational Operators\bin\Debug\net6.0\Relational Operators.exe
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Relational Operators\Relational Operators\bin\Debug\net6.0\Relational Operators.deps.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Relational Operators\Relational Operators\bin\Debug\net6.0\Relational Operators.runtimeconfig.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Relational Operators\Relational Operators\bin\Debug\net6.0\Relational Operators.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Relational Operators\Relational Operators\bin\Debug\net6.0\Relational Operators.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Relational Operators\Relational Operators\obj\Debug\net6.0\Relational Operators.csproj.AssemblyReference.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Relational Operators\Relational Operators\obj\Debug\net6.0\Relational Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Relational Operators\Relational Operators\obj\Debug\net6.0\Relational Operators.AssemblyInfoInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Relational Operators\Relational Operators\obj\Debug\net6.0\Relational Operators.AssemblyInfo.cs
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Relational Operators\Relational Operators\obj\Debug\net6.0\Relational Operators.csproj.CoreCompileInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Relational Operators\Relational Operators\obj\Debug\net6.0\Relational Operators.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Relational Operators\Relational Operators\obj\Debug\net6.0\refint\Relational Operators.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Relational Operators\Relational Operators\obj\Debug\net6.0\Relational Operators.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Relational Operators\Relational Operators\obj\Debug\net6.0\Relational Operators.genruntimeconfig.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Relational Operators\Relational Operators\obj\Debug\net6.0\ref\Relational Operators.dll

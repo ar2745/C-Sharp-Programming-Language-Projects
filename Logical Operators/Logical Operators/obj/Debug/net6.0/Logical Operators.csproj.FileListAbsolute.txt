@@ -1,0 +1,15 @@
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Logical Operators\Logical Operators\bin\Debug\net6.0\Logical Operators.exe
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Logical Operators\Logical Operators\bin\Debug\net6.0\Logical Operators.deps.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Logical Operators\Logical Operators\bin\Debug\net6.0\Logical Operators.runtimeconfig.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Logical Operators\Logical Operators\bin\Debug\net6.0\Logical Operators.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Logical Operators\Logical Operators\bin\Debug\net6.0\Logical Operators.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Logical Operators\Logical Operators\obj\Debug\net6.0\Logical Operators.csproj.AssemblyReference.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Logical Operators\Logical Operators\obj\Debug\net6.0\Logical Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Logical Operators\Logical Operators\obj\Debug\net6.0\Logical Operators.AssemblyInfoInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Logical Operators\Logical Operators\obj\Debug\net6.0\Logical Operators.AssemblyInfo.cs
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Logical Operators\Logical Operators\obj\Debug\net6.0\Logical Operators.csproj.CoreCompileInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Logical Operators\Logical Operators\obj\Debug\net6.0\Logical Operators.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Logical Operators\Logical Operators\obj\Debug\net6.0\refint\Logical Operators.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Logical Operators\Logical Operators\obj\Debug\net6.0\Logical Operators.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Logical Operators\Logical Operators\obj\Debug\net6.0\Logical Operators.genruntimeconfig.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Logical Operators\Logical Operators\obj\Debug\net6.0\ref\Logical Operators.dll
