@@ -1,0 +1,15 @@
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to add 2 binary numbers\How to add 2 binary numbers\bin\Debug\net6.0\How to add 2 binary numbers.exe
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to add 2 binary numbers\How to add 2 binary numbers\bin\Debug\net6.0\How to add 2 binary numbers.deps.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to add 2 binary numbers\How to add 2 binary numbers\bin\Debug\net6.0\How to add 2 binary numbers.runtimeconfig.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to add 2 binary numbers\How to add 2 binary numbers\bin\Debug\net6.0\How to add 2 binary numbers.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to add 2 binary numbers\How to add 2 binary numbers\bin\Debug\net6.0\How to add 2 binary numbers.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to add 2 binary numbers\How to add 2 binary numbers\obj\Debug\net6.0\How to add 2 binary numbers.csproj.AssemblyReference.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to add 2 binary numbers\How to add 2 binary numbers\obj\Debug\net6.0\How to add 2 binary numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to add 2 binary numbers\How to add 2 binary numbers\obj\Debug\net6.0\How to add 2 binary numbers.AssemblyInfoInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to add 2 binary numbers\How to add 2 binary numbers\obj\Debug\net6.0\How to add 2 binary numbers.AssemblyInfo.cs
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to add 2 binary numbers\How to add 2 binary numbers\obj\Debug\net6.0\How to add 2 binary numbers.csproj.CoreCompileInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to add 2 binary numbers\How to add 2 binary numbers\obj\Debug\net6.0\How to add 2 binary numbers.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to add 2 binary numbers\How to add 2 binary numbers\obj\Debug\net6.0\refint\How to add 2 binary numbers.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to add 2 binary numbers\How to add 2 binary numbers\obj\Debug\net6.0\How to add 2 binary numbers.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to add 2 binary numbers\How to add 2 binary numbers\obj\Debug\net6.0\How to add 2 binary numbers.genruntimeconfig.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to add 2 binary numbers\How to add 2 binary numbers\obj\Debug\net6.0\ref\How to add 2 binary numbers.dll

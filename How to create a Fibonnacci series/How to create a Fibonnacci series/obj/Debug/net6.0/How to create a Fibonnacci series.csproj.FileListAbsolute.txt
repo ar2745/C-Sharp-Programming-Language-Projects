@@ -1,0 +1,15 @@
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create a Fibonnacci series\How to create a Fibonnacci series\bin\Debug\net6.0\How to create a Fibonnacci series.exe
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create a Fibonnacci series\How to create a Fibonnacci series\bin\Debug\net6.0\How to create a Fibonnacci series.deps.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create a Fibonnacci series\How to create a Fibonnacci series\bin\Debug\net6.0\How to create a Fibonnacci series.runtimeconfig.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create a Fibonnacci series\How to create a Fibonnacci series\bin\Debug\net6.0\How to create a Fibonnacci series.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create a Fibonnacci series\How to create a Fibonnacci series\bin\Debug\net6.0\How to create a Fibonnacci series.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create a Fibonnacci series\How to create a Fibonnacci series\obj\Debug\net6.0\How to create a Fibonnacci series.csproj.AssemblyReference.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create a Fibonnacci series\How to create a Fibonnacci series\obj\Debug\net6.0\How to create a Fibonnacci series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create a Fibonnacci series\How to create a Fibonnacci series\obj\Debug\net6.0\How to create a Fibonnacci series.AssemblyInfoInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create a Fibonnacci series\How to create a Fibonnacci series\obj\Debug\net6.0\How to create a Fibonnacci series.AssemblyInfo.cs
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create a Fibonnacci series\How to create a Fibonnacci series\obj\Debug\net6.0\How to create a Fibonnacci series.csproj.CoreCompileInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create a Fibonnacci series\How to create a Fibonnacci series\obj\Debug\net6.0\How to create a Fibonnacci series.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create a Fibonnacci series\How to create a Fibonnacci series\obj\Debug\net6.0\refint\How to create a Fibonnacci series.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create a Fibonnacci series\How to create a Fibonnacci series\obj\Debug\net6.0\How to create a Fibonnacci series.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create a Fibonnacci series\How to create a Fibonnacci series\obj\Debug\net6.0\How to create a Fibonnacci series.genruntimeconfig.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create a Fibonnacci series\How to create a Fibonnacci series\obj\Debug\net6.0\ref\How to create a Fibonnacci series.dll

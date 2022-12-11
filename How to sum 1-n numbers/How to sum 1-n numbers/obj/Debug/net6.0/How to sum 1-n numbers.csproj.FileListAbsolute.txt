@@ -1,0 +1,15 @@
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to sum 1-n numbers\How to sum 1-n numbers\bin\Debug\net6.0\How to sum 1-n numbers.exe
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to sum 1-n numbers\How to sum 1-n numbers\bin\Debug\net6.0\How to sum 1-n numbers.deps.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to sum 1-n numbers\How to sum 1-n numbers\bin\Debug\net6.0\How to sum 1-n numbers.runtimeconfig.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to sum 1-n numbers\How to sum 1-n numbers\bin\Debug\net6.0\How to sum 1-n numbers.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to sum 1-n numbers\How to sum 1-n numbers\bin\Debug\net6.0\How to sum 1-n numbers.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to sum 1-n numbers\How to sum 1-n numbers\obj\Debug\net6.0\How to sum 1-n numbers.csproj.AssemblyReference.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to sum 1-n numbers\How to sum 1-n numbers\obj\Debug\net6.0\How to sum 1-n numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to sum 1-n numbers\How to sum 1-n numbers\obj\Debug\net6.0\How to sum 1-n numbers.AssemblyInfoInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to sum 1-n numbers\How to sum 1-n numbers\obj\Debug\net6.0\How to sum 1-n numbers.AssemblyInfo.cs
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to sum 1-n numbers\How to sum 1-n numbers\obj\Debug\net6.0\How to sum 1-n numbers.csproj.CoreCompileInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to sum 1-n numbers\How to sum 1-n numbers\obj\Debug\net6.0\How to sum 1-n numbers.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to sum 1-n numbers\How to sum 1-n numbers\obj\Debug\net6.0\refint\How to sum 1-n numbers.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to sum 1-n numbers\How to sum 1-n numbers\obj\Debug\net6.0\How to sum 1-n numbers.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to sum 1-n numbers\How to sum 1-n numbers\obj\Debug\net6.0\How to sum 1-n numbers.genruntimeconfig.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to sum 1-n numbers\How to sum 1-n numbers\obj\Debug\net6.0\ref\How to sum 1-n numbers.dll
