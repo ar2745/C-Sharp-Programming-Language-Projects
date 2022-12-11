@@ -1,0 +1,15 @@
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create multiplication table\How to create multiplication table\bin\Debug\net6.0\How to create multiplication table.exe
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create multiplication table\How to create multiplication table\bin\Debug\net6.0\How to create multiplication table.deps.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create multiplication table\How to create multiplication table\bin\Debug\net6.0\How to create multiplication table.runtimeconfig.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create multiplication table\How to create multiplication table\bin\Debug\net6.0\How to create multiplication table.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create multiplication table\How to create multiplication table\bin\Debug\net6.0\How to create multiplication table.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create multiplication table\How to create multiplication table\obj\Debug\net6.0\How to create multiplication table.csproj.AssemblyReference.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create multiplication table\How to create multiplication table\obj\Debug\net6.0\How to create multiplication table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create multiplication table\How to create multiplication table\obj\Debug\net6.0\How to create multiplication table.AssemblyInfoInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create multiplication table\How to create multiplication table\obj\Debug\net6.0\How to create multiplication table.AssemblyInfo.cs
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create multiplication table\How to create multiplication table\obj\Debug\net6.0\How to create multiplication table.csproj.CoreCompileInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create multiplication table\How to create multiplication table\obj\Debug\net6.0\How to create multiplication table.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create multiplication table\How to create multiplication table\obj\Debug\net6.0\refint\How to create multiplication table.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create multiplication table\How to create multiplication table\obj\Debug\net6.0\How to create multiplication table.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create multiplication table\How to create multiplication table\obj\Debug\net6.0\How to create multiplication table.genruntimeconfig.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to create multiplication table\How to create multiplication table\obj\Debug\net6.0\ref\How to create multiplication table.dll

@@ -1,0 +1,15 @@
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the greatest of 3 numbers\How to get the greatest of 3 numbers\bin\Debug\net6.0\How to get the greatest of 3 numbers.exe
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the greatest of 3 numbers\How to get the greatest of 3 numbers\bin\Debug\net6.0\How to get the greatest of 3 numbers.deps.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the greatest of 3 numbers\How to get the greatest of 3 numbers\bin\Debug\net6.0\How to get the greatest of 3 numbers.runtimeconfig.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the greatest of 3 numbers\How to get the greatest of 3 numbers\bin\Debug\net6.0\How to get the greatest of 3 numbers.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the greatest of 3 numbers\How to get the greatest of 3 numbers\bin\Debug\net6.0\How to get the greatest of 3 numbers.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the greatest of 3 numbers\How to get the greatest of 3 numbers\obj\Debug\net6.0\How to get the greatest of 3 numbers.csproj.AssemblyReference.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the greatest of 3 numbers\How to get the greatest of 3 numbers\obj\Debug\net6.0\How to get the greatest of 3 numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the greatest of 3 numbers\How to get the greatest of 3 numbers\obj\Debug\net6.0\How to get the greatest of 3 numbers.AssemblyInfoInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the greatest of 3 numbers\How to get the greatest of 3 numbers\obj\Debug\net6.0\How to get the greatest of 3 numbers.AssemblyInfo.cs
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the greatest of 3 numbers\How to get the greatest of 3 numbers\obj\Debug\net6.0\How to get the greatest of 3 numbers.csproj.CoreCompileInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the greatest of 3 numbers\How to get the greatest of 3 numbers\obj\Debug\net6.0\How to get the greatest of 3 numbers.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the greatest of 3 numbers\How to get the greatest of 3 numbers\obj\Debug\net6.0\refint\How to get the greatest of 3 numbers.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the greatest of 3 numbers\How to get the greatest of 3 numbers\obj\Debug\net6.0\How to get the greatest of 3 numbers.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the greatest of 3 numbers\How to get the greatest of 3 numbers\obj\Debug\net6.0\How to get the greatest of 3 numbers.genruntimeconfig.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the greatest of 3 numbers\How to get the greatest of 3 numbers\obj\Debug\net6.0\ref\How to get the greatest of 3 numbers.dll

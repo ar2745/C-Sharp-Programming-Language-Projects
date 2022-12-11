@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "How to create multiplication table", "How to create multiplication table\How to create multiplication table.csproj", "{CC7ADEA1-2950-475B-8D5B-D74788A99184}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC7ADEA1-2950-475B-8D5B-D74788A99184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC7ADEA1-2950-475B-8D5B-D74788A99184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC7ADEA1-2950-475B-8D5B-D74788A99184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC7ADEA1-2950-475B-8D5B-D74788A99184}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABE77D55-122D-46CF-939E-DDD7A5D0CB35}
+	EndGlobalSection
+EndGlobal
