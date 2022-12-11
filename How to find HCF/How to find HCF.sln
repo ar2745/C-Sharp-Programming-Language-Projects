@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "How to find HCF", "How to find HCF\How to find HCF.csproj", "{4F278BA1-FE02-44B6-8022-A7131027B180}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F278BA1-FE02-44B6-8022-A7131027B180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F278BA1-FE02-44B6-8022-A7131027B180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F278BA1-FE02-44B6-8022-A7131027B180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F278BA1-FE02-44B6-8022-A7131027B180}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3494C6EF-DAA9-4F58-B2A8-8BD8FE471CF9}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the magnitude of an integer\How to get the magnitude of an integer\bin\Debug\net6.0\How to get the magnitude of an integer.exe
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the magnitude of an integer\How to get the magnitude of an integer\bin\Debug\net6.0\How to get the magnitude of an integer.deps.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the magnitude of an integer\How to get the magnitude of an integer\bin\Debug\net6.0\How to get the magnitude of an integer.runtimeconfig.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the magnitude of an integer\How to get the magnitude of an integer\bin\Debug\net6.0\How to get the magnitude of an integer.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the magnitude of an integer\How to get the magnitude of an integer\bin\Debug\net6.0\How to get the magnitude of an integer.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the magnitude of an integer\How to get the magnitude of an integer\obj\Debug\net6.0\How to get the magnitude of an integer.csproj.AssemblyReference.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the magnitude of an integer\How to get the magnitude of an integer\obj\Debug\net6.0\How to get the magnitude of an integer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the magnitude of an integer\How to get the magnitude of an integer\obj\Debug\net6.0\How to get the magnitude of an integer.AssemblyInfoInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the magnitude of an integer\How to get the magnitude of an integer\obj\Debug\net6.0\How to get the magnitude of an integer.AssemblyInfo.cs
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the magnitude of an integer\How to get the magnitude of an integer\obj\Debug\net6.0\How to get the magnitude of an integer.csproj.CoreCompileInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the magnitude of an integer\How to get the magnitude of an integer\obj\Debug\net6.0\How to get the magnitude of an integer.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the magnitude of an integer\How to get the magnitude of an integer\obj\Debug\net6.0\refint\How to get the magnitude of an integer.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the magnitude of an integer\How to get the magnitude of an integer\obj\Debug\net6.0\How to get the magnitude of an integer.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the magnitude of an integer\How to get the magnitude of an integer\obj\Debug\net6.0\How to get the magnitude of an integer.genruntimeconfig.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the magnitude of an integer\How to get the magnitude of an integer\obj\Debug\net6.0\ref\How to get the magnitude of an integer.dll

@@ -1,0 +1,15 @@
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to find HCF\How to find HCF\bin\Debug\net6.0\How to find HCF.exe
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to find HCF\How to find HCF\bin\Debug\net6.0\How to find HCF.deps.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to find HCF\How to find HCF\bin\Debug\net6.0\How to find HCF.runtimeconfig.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to find HCF\How to find HCF\bin\Debug\net6.0\How to find HCF.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to find HCF\How to find HCF\bin\Debug\net6.0\How to find HCF.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to find HCF\How to find HCF\obj\Debug\net6.0\How to find HCF.csproj.AssemblyReference.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to find HCF\How to find HCF\obj\Debug\net6.0\How to find HCF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to find HCF\How to find HCF\obj\Debug\net6.0\How to find HCF.AssemblyInfoInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to find HCF\How to find HCF\obj\Debug\net6.0\How to find HCF.AssemblyInfo.cs
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to find HCF\How to find HCF\obj\Debug\net6.0\How to find HCF.csproj.CoreCompileInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to find HCF\How to find HCF\obj\Debug\net6.0\How to find HCF.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to find HCF\How to find HCF\obj\Debug\net6.0\refint\How to find HCF.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to find HCF\How to find HCF\obj\Debug\net6.0\How to find HCF.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to find HCF\How to find HCF\obj\Debug\net6.0\How to find HCF.genruntimeconfig.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to find HCF\How to find HCF\obj\Debug\net6.0\ref\How to find HCF.dll

@@ -1,0 +1,15 @@
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get factors of a number\How to get factors of a number\bin\Debug\net6.0\How to get factors of a number.exe
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get factors of a number\How to get factors of a number\bin\Debug\net6.0\How to get factors of a number.deps.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get factors of a number\How to get factors of a number\bin\Debug\net6.0\How to get factors of a number.runtimeconfig.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get factors of a number\How to get factors of a number\bin\Debug\net6.0\How to get factors of a number.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get factors of a number\How to get factors of a number\bin\Debug\net6.0\How to get factors of a number.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get factors of a number\How to get factors of a number\obj\Debug\net6.0\How to get factors of a number.csproj.AssemblyReference.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get factors of a number\How to get factors of a number\obj\Debug\net6.0\How to get factors of a number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get factors of a number\How to get factors of a number\obj\Debug\net6.0\How to get factors of a number.AssemblyInfoInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get factors of a number\How to get factors of a number\obj\Debug\net6.0\How to get factors of a number.AssemblyInfo.cs
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get factors of a number\How to get factors of a number\obj\Debug\net6.0\How to get factors of a number.csproj.CoreCompileInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get factors of a number\How to get factors of a number\obj\Debug\net6.0\How to get factors of a number.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get factors of a number\How to get factors of a number\obj\Debug\net6.0\refint\How to get factors of a number.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get factors of a number\How to get factors of a number\obj\Debug\net6.0\How to get factors of a number.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get factors of a number\How to get factors of a number\obj\Debug\net6.0\How to get factors of a number.genruntimeconfig.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get factors of a number\How to get factors of a number\obj\Debug\net6.0\ref\How to get factors of a number.dll

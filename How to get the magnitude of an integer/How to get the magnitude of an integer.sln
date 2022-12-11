@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "How to get the magnitude of an integer", "How to get the magnitude of an integer\How to get the magnitude of an integer.csproj", "{DDE4F4A3-7880-45E7-A5DE-96EAC2BFE1FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDE4F4A3-7880-45E7-A5DE-96EAC2BFE1FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDE4F4A3-7880-45E7-A5DE-96EAC2BFE1FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDE4F4A3-7880-45E7-A5DE-96EAC2BFE1FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDE4F4A3-7880-45E7-A5DE-96EAC2BFE1FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B31E3F79-A949-4D81-86E9-CDED46D1C9C3}
+	EndGlobalSection
+EndGlobal
