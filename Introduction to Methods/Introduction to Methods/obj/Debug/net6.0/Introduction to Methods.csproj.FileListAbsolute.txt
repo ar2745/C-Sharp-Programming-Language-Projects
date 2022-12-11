@@ -1,0 +1,15 @@
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\Introduction to Methods\Introduction to Methods\obj\Debug\net6.0\Introduction to Methods.csproj.AssemblyReference.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\Introduction to Methods\Introduction to Methods\obj\Debug\net6.0\Introduction to Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\Introduction to Methods\Introduction to Methods\obj\Debug\net6.0\Introduction to Methods.AssemblyInfoInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\Introduction to Methods\Introduction to Methods\obj\Debug\net6.0\Introduction to Methods.AssemblyInfo.cs
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\Introduction to Methods\Introduction to Methods\obj\Debug\net6.0\Introduction to Methods.csproj.CoreCompileInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\Introduction to Methods\Introduction to Methods\bin\Debug\net6.0\Introduction to Methods.exe
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\Introduction to Methods\Introduction to Methods\bin\Debug\net6.0\Introduction to Methods.deps.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\Introduction to Methods\Introduction to Methods\bin\Debug\net6.0\Introduction to Methods.runtimeconfig.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\Introduction to Methods\Introduction to Methods\bin\Debug\net6.0\Introduction to Methods.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\Introduction to Methods\Introduction to Methods\bin\Debug\net6.0\Introduction to Methods.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\Introduction to Methods\Introduction to Methods\obj\Debug\net6.0\Introduction to Methods.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\Introduction to Methods\Introduction to Methods\obj\Debug\net6.0\refint\Introduction to Methods.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\Introduction to Methods\Introduction to Methods\obj\Debug\net6.0\Introduction to Methods.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\Introduction to Methods\Introduction to Methods\obj\Debug\net6.0\Introduction to Methods.genruntimeconfig.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\Introduction to Methods\Introduction to Methods\obj\Debug\net6.0\ref\Introduction to Methods.dll

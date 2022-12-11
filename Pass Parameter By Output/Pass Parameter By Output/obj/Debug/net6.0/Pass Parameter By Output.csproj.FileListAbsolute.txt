@@ -1,0 +1,15 @@
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\Pass Parameter By Output\Pass Parameter By Output\bin\Debug\net6.0\Pass Parameter By Output.exe
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\Pass Parameter By Output\Pass Parameter By Output\bin\Debug\net6.0\Pass Parameter By Output.deps.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\Pass Parameter By Output\Pass Parameter By Output\bin\Debug\net6.0\Pass Parameter By Output.runtimeconfig.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\Pass Parameter By Output\Pass Parameter By Output\bin\Debug\net6.0\Pass Parameter By Output.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\Pass Parameter By Output\Pass Parameter By Output\bin\Debug\net6.0\Pass Parameter By Output.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\Pass Parameter By Output\Pass Parameter By Output\obj\Debug\net6.0\Pass Parameter By Output.csproj.AssemblyReference.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\Pass Parameter By Output\Pass Parameter By Output\obj\Debug\net6.0\Pass Parameter By Output.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\Pass Parameter By Output\Pass Parameter By Output\obj\Debug\net6.0\Pass Parameter By Output.AssemblyInfoInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\Pass Parameter By Output\Pass Parameter By Output\obj\Debug\net6.0\Pass Parameter By Output.AssemblyInfo.cs
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\Pass Parameter By Output\Pass Parameter By Output\obj\Debug\net6.0\Pass Parameter By Output.csproj.CoreCompileInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\Pass Parameter By Output\Pass Parameter By Output\obj\Debug\net6.0\Pass Parameter By Output.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\Pass Parameter By Output\Pass Parameter By Output\obj\Debug\net6.0\refint\Pass Parameter By Output.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\Pass Parameter By Output\Pass Parameter By Output\obj\Debug\net6.0\Pass Parameter By Output.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\Pass Parameter By Output\Pass Parameter By Output\obj\Debug\net6.0\Pass Parameter By Output.genruntimeconfig.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\Pass Parameter By Output\Pass Parameter By Output\obj\Debug\net6.0\ref\Pass Parameter By Output.dll

@@ -1,0 +1,15 @@
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\How To Pass Parameter By Value\How To Pass Parameter By Value\bin\Debug\net6.0\How To Pass Parameter By Value.exe
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\How To Pass Parameter By Value\How To Pass Parameter By Value\bin\Debug\net6.0\How To Pass Parameter By Value.deps.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\How To Pass Parameter By Value\How To Pass Parameter By Value\bin\Debug\net6.0\How To Pass Parameter By Value.runtimeconfig.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\How To Pass Parameter By Value\How To Pass Parameter By Value\bin\Debug\net6.0\How To Pass Parameter By Value.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\How To Pass Parameter By Value\How To Pass Parameter By Value\bin\Debug\net6.0\How To Pass Parameter By Value.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\How To Pass Parameter By Value\How To Pass Parameter By Value\obj\Debug\net6.0\How To Pass Parameter By Value.csproj.AssemblyReference.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\How To Pass Parameter By Value\How To Pass Parameter By Value\obj\Debug\net6.0\How To Pass Parameter By Value.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\How To Pass Parameter By Value\How To Pass Parameter By Value\obj\Debug\net6.0\How To Pass Parameter By Value.AssemblyInfoInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\How To Pass Parameter By Value\How To Pass Parameter By Value\obj\Debug\net6.0\How To Pass Parameter By Value.AssemblyInfo.cs
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\How To Pass Parameter By Value\How To Pass Parameter By Value\obj\Debug\net6.0\How To Pass Parameter By Value.csproj.CoreCompileInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\How To Pass Parameter By Value\How To Pass Parameter By Value\obj\Debug\net6.0\How To Pass Parameter By Value.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\How To Pass Parameter By Value\How To Pass Parameter By Value\obj\Debug\net6.0\refint\How To Pass Parameter By Value.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\How To Pass Parameter By Value\How To Pass Parameter By Value\obj\Debug\net6.0\How To Pass Parameter By Value.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\How To Pass Parameter By Value\How To Pass Parameter By Value\obj\Debug\net6.0\How To Pass Parameter By Value.genruntimeconfig.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\How To Pass Parameter By Value\How To Pass Parameter By Value\obj\Debug\net6.0\ref\How To Pass Parameter By Value.dll
