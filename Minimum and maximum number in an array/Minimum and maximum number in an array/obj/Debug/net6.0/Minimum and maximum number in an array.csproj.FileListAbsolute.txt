@@ -1,0 +1,15 @@
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Minimum and maximum number in an array\Minimum and maximum number in an array\bin\Debug\net6.0\Minimum and maximum number in an array.exe
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Minimum and maximum number in an array\Minimum and maximum number in an array\bin\Debug\net6.0\Minimum and maximum number in an array.deps.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Minimum and maximum number in an array\Minimum and maximum number in an array\bin\Debug\net6.0\Minimum and maximum number in an array.runtimeconfig.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Minimum and maximum number in an array\Minimum and maximum number in an array\bin\Debug\net6.0\Minimum and maximum number in an array.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Minimum and maximum number in an array\Minimum and maximum number in an array\bin\Debug\net6.0\Minimum and maximum number in an array.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Minimum and maximum number in an array\Minimum and maximum number in an array\obj\Debug\net6.0\Minimum and maximum number in an array.csproj.AssemblyReference.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Minimum and maximum number in an array\Minimum and maximum number in an array\obj\Debug\net6.0\Minimum and maximum number in an array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Minimum and maximum number in an array\Minimum and maximum number in an array\obj\Debug\net6.0\Minimum and maximum number in an array.AssemblyInfoInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Minimum and maximum number in an array\Minimum and maximum number in an array\obj\Debug\net6.0\Minimum and maximum number in an array.AssemblyInfo.cs
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Minimum and maximum number in an array\Minimum and maximum number in an array\obj\Debug\net6.0\Minimum and maximum number in an array.csproj.CoreCompileInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Minimum and maximum number in an array\Minimum and maximum number in an array\obj\Debug\net6.0\Minimum and maximum number in an array.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Minimum and maximum number in an array\Minimum and maximum number in an array\obj\Debug\net6.0\refint\Minimum and maximum number in an array.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Minimum and maximum number in an array\Minimum and maximum number in an array\obj\Debug\net6.0\Minimum and maximum number in an array.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Minimum and maximum number in an array\Minimum and maximum number in an array\obj\Debug\net6.0\Minimum and maximum number in an array.genruntimeconfig.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Minimum and maximum number in an array\Minimum and maximum number in an array\obj\Debug\net6.0\ref\Minimum and maximum number in an array.dll

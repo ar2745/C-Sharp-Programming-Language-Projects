@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minimum and maximum number in an array", "Minimum and maximum number in an array\Minimum and maximum number in an array.csproj", "{2EC22238-D69B-4CF8-9BCB-F93F90FBC9DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EC22238-D69B-4CF8-9BCB-F93F90FBC9DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EC22238-D69B-4CF8-9BCB-F93F90FBC9DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EC22238-D69B-4CF8-9BCB-F93F90FBC9DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EC22238-D69B-4CF8-9BCB-F93F90FBC9DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A5D3DB5-E556-4C7F-B6EA-6F1FF4CFD80A}
+	EndGlobalSection
+EndGlobal

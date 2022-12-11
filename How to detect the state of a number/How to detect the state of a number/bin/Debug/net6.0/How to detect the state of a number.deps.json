@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "How to detect the state of a number/1.0.0": {
+        "runtime": {
+          "How to detect the state of a number.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "How to detect the state of a number/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
