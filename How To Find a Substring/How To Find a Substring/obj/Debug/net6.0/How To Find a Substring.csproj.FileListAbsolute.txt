@@ -1,0 +1,15 @@
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How To Find a Substring\How To Find a Substring\bin\Debug\net6.0\How To Find a Substring.exe
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How To Find a Substring\How To Find a Substring\bin\Debug\net6.0\How To Find a Substring.deps.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How To Find a Substring\How To Find a Substring\bin\Debug\net6.0\How To Find a Substring.runtimeconfig.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How To Find a Substring\How To Find a Substring\bin\Debug\net6.0\How To Find a Substring.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How To Find a Substring\How To Find a Substring\bin\Debug\net6.0\How To Find a Substring.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How To Find a Substring\How To Find a Substring\obj\Debug\net6.0\How To Find a Substring.csproj.AssemblyReference.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How To Find a Substring\How To Find a Substring\obj\Debug\net6.0\How To Find a Substring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How To Find a Substring\How To Find a Substring\obj\Debug\net6.0\How To Find a Substring.AssemblyInfoInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How To Find a Substring\How To Find a Substring\obj\Debug\net6.0\How To Find a Substring.AssemblyInfo.cs
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How To Find a Substring\How To Find a Substring\obj\Debug\net6.0\How To Find a Substring.csproj.CoreCompileInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How To Find a Substring\How To Find a Substring\obj\Debug\net6.0\How To Find a Substring.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How To Find a Substring\How To Find a Substring\obj\Debug\net6.0\refint\How To Find a Substring.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How To Find a Substring\How To Find a Substring\obj\Debug\net6.0\How To Find a Substring.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How To Find a Substring\How To Find a Substring\obj\Debug\net6.0\How To Find a Substring.genruntimeconfig.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How To Find a Substring\How To Find a Substring\obj\Debug\net6.0\ref\How To Find a Substring.dll
