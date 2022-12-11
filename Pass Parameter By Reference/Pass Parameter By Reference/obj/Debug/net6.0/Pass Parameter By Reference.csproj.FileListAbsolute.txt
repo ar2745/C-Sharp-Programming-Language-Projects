@@ -1,0 +1,15 @@
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\Pass Parameter By Reference\Pass Parameter By Reference\bin\Debug\net6.0\Pass Parameter By Reference.exe
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\Pass Parameter By Reference\Pass Parameter By Reference\bin\Debug\net6.0\Pass Parameter By Reference.deps.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\Pass Parameter By Reference\Pass Parameter By Reference\bin\Debug\net6.0\Pass Parameter By Reference.runtimeconfig.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\Pass Parameter By Reference\Pass Parameter By Reference\bin\Debug\net6.0\Pass Parameter By Reference.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\Pass Parameter By Reference\Pass Parameter By Reference\bin\Debug\net6.0\Pass Parameter By Reference.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\Pass Parameter By Reference\Pass Parameter By Reference\obj\Debug\net6.0\Pass Parameter By Reference.csproj.AssemblyReference.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\Pass Parameter By Reference\Pass Parameter By Reference\obj\Debug\net6.0\Pass Parameter By Reference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\Pass Parameter By Reference\Pass Parameter By Reference\obj\Debug\net6.0\Pass Parameter By Reference.AssemblyInfoInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\Pass Parameter By Reference\Pass Parameter By Reference\obj\Debug\net6.0\Pass Parameter By Reference.AssemblyInfo.cs
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\Pass Parameter By Reference\Pass Parameter By Reference\obj\Debug\net6.0\Pass Parameter By Reference.csproj.CoreCompileInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\Pass Parameter By Reference\Pass Parameter By Reference\obj\Debug\net6.0\Pass Parameter By Reference.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\Pass Parameter By Reference\Pass Parameter By Reference\obj\Debug\net6.0\refint\Pass Parameter By Reference.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\Pass Parameter By Reference\Pass Parameter By Reference\obj\Debug\net6.0\Pass Parameter By Reference.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\Pass Parameter By Reference\Pass Parameter By Reference\obj\Debug\net6.0\Pass Parameter By Reference.genruntimeconfig.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 29\Pass Parameter By Reference\Pass Parameter By Reference\obj\Debug\net6.0\ref\Pass Parameter By Reference.dll

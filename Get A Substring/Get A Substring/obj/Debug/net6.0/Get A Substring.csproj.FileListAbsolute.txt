@@ -1,0 +1,15 @@
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 30\Get A Substring\Get A Substring\bin\Debug\net6.0\Get A Substring.exe
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 30\Get A Substring\Get A Substring\bin\Debug\net6.0\Get A Substring.deps.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 30\Get A Substring\Get A Substring\bin\Debug\net6.0\Get A Substring.runtimeconfig.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 30\Get A Substring\Get A Substring\bin\Debug\net6.0\Get A Substring.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 30\Get A Substring\Get A Substring\bin\Debug\net6.0\Get A Substring.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 30\Get A Substring\Get A Substring\obj\Debug\net6.0\Get A Substring.csproj.AssemblyReference.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 30\Get A Substring\Get A Substring\obj\Debug\net6.0\Get A Substring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 30\Get A Substring\Get A Substring\obj\Debug\net6.0\Get A Substring.AssemblyInfoInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 30\Get A Substring\Get A Substring\obj\Debug\net6.0\Get A Substring.AssemblyInfo.cs
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 30\Get A Substring\Get A Substring\obj\Debug\net6.0\Get A Substring.csproj.CoreCompileInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 30\Get A Substring\Get A Substring\obj\Debug\net6.0\Get A Substring.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 30\Get A Substring\Get A Substring\obj\Debug\net6.0\refint\Get A Substring.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 30\Get A Substring\Get A Substring\obj\Debug\net6.0\Get A Substring.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 30\Get A Substring\Get A Substring\obj\Debug\net6.0\Get A Substring.genruntimeconfig.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 30\Get A Substring\Get A Substring\obj\Debug\net6.0\ref\Get A Substring.dll
