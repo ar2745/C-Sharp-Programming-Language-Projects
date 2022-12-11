@@ -1,0 +1,15 @@
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the cube root\How to get the cube root\bin\Debug\net6.0\How to get the cube root.exe
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the cube root\How to get the cube root\bin\Debug\net6.0\How to get the cube root.deps.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the cube root\How to get the cube root\bin\Debug\net6.0\How to get the cube root.runtimeconfig.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the cube root\How to get the cube root\bin\Debug\net6.0\How to get the cube root.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the cube root\How to get the cube root\bin\Debug\net6.0\How to get the cube root.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the cube root\How to get the cube root\obj\Debug\net6.0\How to get the cube root.csproj.AssemblyReference.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the cube root\How to get the cube root\obj\Debug\net6.0\How to get the cube root.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the cube root\How to get the cube root\obj\Debug\net6.0\How to get the cube root.AssemblyInfoInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the cube root\How to get the cube root\obj\Debug\net6.0\How to get the cube root.AssemblyInfo.cs
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the cube root\How to get the cube root\obj\Debug\net6.0\How to get the cube root.csproj.CoreCompileInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the cube root\How to get the cube root\obj\Debug\net6.0\How to get the cube root.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the cube root\How to get the cube root\obj\Debug\net6.0\refint\How to get the cube root.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the cube root\How to get the cube root\obj\Debug\net6.0\How to get the cube root.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the cube root\How to get the cube root\obj\Debug\net6.0\How to get the cube root.genruntimeconfig.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How to get the cube root\How to get the cube root\obj\Debug\net6.0\ref\How to get the cube root.dll

@@ -1,0 +1,15 @@
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Power of Number using Recursion\Power of Number using Recursion\bin\Debug\net6.0\Power of Number using Recursion.exe
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Power of Number using Recursion\Power of Number using Recursion\bin\Debug\net6.0\Power of Number using Recursion.deps.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Power of Number using Recursion\Power of Number using Recursion\bin\Debug\net6.0\Power of Number using Recursion.runtimeconfig.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Power of Number using Recursion\Power of Number using Recursion\bin\Debug\net6.0\Power of Number using Recursion.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Power of Number using Recursion\Power of Number using Recursion\bin\Debug\net6.0\Power of Number using Recursion.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Power of Number using Recursion\Power of Number using Recursion\obj\Debug\net6.0\Power of Number using Recursion.csproj.AssemblyReference.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Power of Number using Recursion\Power of Number using Recursion\obj\Debug\net6.0\Power of Number using Recursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Power of Number using Recursion\Power of Number using Recursion\obj\Debug\net6.0\Power of Number using Recursion.AssemblyInfoInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Power of Number using Recursion\Power of Number using Recursion\obj\Debug\net6.0\Power of Number using Recursion.AssemblyInfo.cs
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Power of Number using Recursion\Power of Number using Recursion\obj\Debug\net6.0\Power of Number using Recursion.csproj.CoreCompileInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Power of Number using Recursion\Power of Number using Recursion\obj\Debug\net6.0\Power of Number using Recursion.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Power of Number using Recursion\Power of Number using Recursion\obj\Debug\net6.0\refint\Power of Number using Recursion.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Power of Number using Recursion\Power of Number using Recursion\obj\Debug\net6.0\Power of Number using Recursion.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Power of Number using Recursion\Power of Number using Recursion\obj\Debug\net6.0\Power of Number using Recursion.genruntimeconfig.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\Power of Number using Recursion\Power of Number using Recursion\obj\Debug\net6.0\ref\Power of Number using Recursion.dll

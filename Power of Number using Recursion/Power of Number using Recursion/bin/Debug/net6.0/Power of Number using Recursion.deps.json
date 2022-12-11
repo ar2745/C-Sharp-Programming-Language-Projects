@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Power of Number using Recursion/1.0.0": {
+        "runtime": {
+          "Power of Number using Recursion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Power of Number using Recursion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
