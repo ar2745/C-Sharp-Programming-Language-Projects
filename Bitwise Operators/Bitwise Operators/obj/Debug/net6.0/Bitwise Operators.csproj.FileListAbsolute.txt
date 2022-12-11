@@ -1,0 +1,15 @@
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Bitwise Operators\Bitwise Operators\bin\Debug\net6.0\Bitwise Operators.exe
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Bitwise Operators\Bitwise Operators\bin\Debug\net6.0\Bitwise Operators.deps.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Bitwise Operators\Bitwise Operators\bin\Debug\net6.0\Bitwise Operators.runtimeconfig.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Bitwise Operators\Bitwise Operators\bin\Debug\net6.0\Bitwise Operators.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Bitwise Operators\Bitwise Operators\bin\Debug\net6.0\Bitwise Operators.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Bitwise Operators\Bitwise Operators\obj\Debug\net6.0\Bitwise Operators.csproj.AssemblyReference.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Bitwise Operators\Bitwise Operators\obj\Debug\net6.0\Bitwise Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Bitwise Operators\Bitwise Operators\obj\Debug\net6.0\Bitwise Operators.AssemblyInfoInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Bitwise Operators\Bitwise Operators\obj\Debug\net6.0\Bitwise Operators.AssemblyInfo.cs
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Bitwise Operators\Bitwise Operators\obj\Debug\net6.0\Bitwise Operators.csproj.CoreCompileInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Bitwise Operators\Bitwise Operators\obj\Debug\net6.0\Bitwise Operators.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Bitwise Operators\Bitwise Operators\obj\Debug\net6.0\refint\Bitwise Operators.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Bitwise Operators\Bitwise Operators\obj\Debug\net6.0\Bitwise Operators.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Bitwise Operators\Bitwise Operators\obj\Debug\net6.0\Bitwise Operators.genruntimeconfig.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Bitwise Operators\Bitwise Operators\obj\Debug\net6.0\ref\Bitwise Operators.dll

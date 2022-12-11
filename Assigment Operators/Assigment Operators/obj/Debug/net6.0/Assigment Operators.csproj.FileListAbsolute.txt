@@ -1,0 +1,15 @@
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Assigment Operators\Assigment Operators\bin\Debug\net6.0\Assigment Operators.exe
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Assigment Operators\Assigment Operators\bin\Debug\net6.0\Assigment Operators.deps.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Assigment Operators\Assigment Operators\bin\Debug\net6.0\Assigment Operators.runtimeconfig.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Assigment Operators\Assigment Operators\bin\Debug\net6.0\Assigment Operators.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Assigment Operators\Assigment Operators\bin\Debug\net6.0\Assigment Operators.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Assigment Operators\Assigment Operators\obj\Debug\net6.0\Assigment Operators.csproj.AssemblyReference.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Assigment Operators\Assigment Operators\obj\Debug\net6.0\Assigment Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Assigment Operators\Assigment Operators\obj\Debug\net6.0\Assigment Operators.AssemblyInfoInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Assigment Operators\Assigment Operators\obj\Debug\net6.0\Assigment Operators.AssemblyInfo.cs
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Assigment Operators\Assigment Operators\obj\Debug\net6.0\Assigment Operators.csproj.CoreCompileInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Assigment Operators\Assigment Operators\obj\Debug\net6.0\Assigment Operators.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Assigment Operators\Assigment Operators\obj\Debug\net6.0\refint\Assigment Operators.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Assigment Operators\Assigment Operators\obj\Debug\net6.0\Assigment Operators.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Assigment Operators\Assigment Operators\obj\Debug\net6.0\Assigment Operators.genruntimeconfig.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 26\Assigment Operators\Assigment Operators\obj\Debug\net6.0\ref\Assigment Operators.dll
