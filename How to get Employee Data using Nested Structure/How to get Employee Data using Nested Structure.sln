@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "How to get Employee Data using Nested Structure", "How to get Employee Data using Nested Structure\How to get Employee Data using Nested Structure.csproj", "{F41E03CD-57F6-47D1-8A09-2A807738166D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F41E03CD-57F6-47D1-8A09-2A807738166D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F41E03CD-57F6-47D1-8A09-2A807738166D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F41E03CD-57F6-47D1-8A09-2A807738166D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F41E03CD-57F6-47D1-8A09-2A807738166D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F558E1BE-198D-4206-ACA2-8CE2A314F2C8}
+	EndGlobalSection
+EndGlobal

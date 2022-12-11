@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Area of a Rectangle using Structure/1.0.0": {
+        "runtime": {
+          "Area of a Rectangle using Structure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Area of a Rectangle using Structure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

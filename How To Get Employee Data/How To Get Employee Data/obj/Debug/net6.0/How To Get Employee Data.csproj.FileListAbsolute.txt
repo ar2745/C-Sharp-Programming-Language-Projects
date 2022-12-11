@@ -1,0 +1,15 @@
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How To Get Employee Data\How To Get Employee Data\bin\Debug\net6.0\How To Get Employee Data.exe
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How To Get Employee Data\How To Get Employee Data\bin\Debug\net6.0\How To Get Employee Data.deps.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How To Get Employee Data\How To Get Employee Data\bin\Debug\net6.0\How To Get Employee Data.runtimeconfig.json
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How To Get Employee Data\How To Get Employee Data\bin\Debug\net6.0\How To Get Employee Data.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How To Get Employee Data\How To Get Employee Data\bin\Debug\net6.0\How To Get Employee Data.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How To Get Employee Data\How To Get Employee Data\obj\Debug\net6.0\How To Get Employee Data.csproj.AssemblyReference.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How To Get Employee Data\How To Get Employee Data\obj\Debug\net6.0\How To Get Employee Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How To Get Employee Data\How To Get Employee Data\obj\Debug\net6.0\How To Get Employee Data.AssemblyInfoInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How To Get Employee Data\How To Get Employee Data\obj\Debug\net6.0\How To Get Employee Data.AssemblyInfo.cs
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How To Get Employee Data\How To Get Employee Data\obj\Debug\net6.0\How To Get Employee Data.csproj.CoreCompileInputs.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How To Get Employee Data\How To Get Employee Data\obj\Debug\net6.0\How To Get Employee Data.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How To Get Employee Data\How To Get Employee Data\obj\Debug\net6.0\refint\How To Get Employee Data.dll
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How To Get Employee Data\How To Get Employee Data\obj\Debug\net6.0\How To Get Employee Data.pdb
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How To Get Employee Data\How To Get Employee Data\obj\Debug\net6.0\How To Get Employee Data.genruntimeconfig.cache
+C:\Users\ar274\Desktop\Visual Studio Projects\Section 34\How To Get Employee Data\How To Get Employee Data\obj\Debug\net6.0\ref\How To Get Employee Data.dll
